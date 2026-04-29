@@ -1,0 +1,2931 @@
+
+=== PAGE 1 ===
+Enhancing Risk Management Effectiveness in Hybrid
+Projects through AI-Driven Strategic Governance: A
+Structural Equation Modelling Study
+1
+
+=== PAGE 2 ===
+1 Table of Contents
+1 Table of Contents ............................................................................................................... 2
+2 List of Figures .................................................................................................................... 4
+3 List of Tables ...................................................................................................................... 4
+4 OBJECTIVES OF THE THESIS ....................................................................................... 5
+5 THE STRUCTURE OF THE THESIS .............................................................................. 6
+6 AUTHOR’S PRESENTATION ......................................................................................... 6
+7 APPENDICES ................................................................................................................... 7
+8 THE FIVE KEY STEPS OF THE THESIS ....................................................................... 7
+9 CHAPTER-1 .................................................................................................................... 10
+10 Introduction ...................................................................................................................... 10
+10.1 Background and Significance of Artificial Intelligence in IT Project Management 12
+10.2 Theoretical Background ........................................................................................... 13
+10.2.1 Definition of Project Risk Management .......................................................... 13
+10.2.2 AI technologies Applicable to Risk Management ........................................... 13
+10.3 Problem Statement ................................................................................................... 15
+10.4 Research Objectives ................................................................................................. 17
+10.5 Research Questions .................................................................................................. 18
+10.6 Significance of the Study ......................................................................................... 19
+10.6.1 Academic Significance .................................................................................... 19
+10.6.2 Practical Significance....................................................................................... 19
+10.6.3 Policy Relevance .............................................................................................. 20
+10.6.4 AI Governance Implications ............................................................................ 20
+10.7 Structure of the Thesis ............................................................................................. 21
+11 CHAPTER-2 .................................................................................................................... 22
+12 2. Literature Review......................................................................................................... 22
+12.1 Overview of Risk Management in Project Management ......................................... 22
+12.2 Strategic Risk Management: Theoretical Foundations ............................................ 23
+12.2.1 Hybrid Project Management in Infrastructure Projects ................................... 24
+12.3 Traditional vs. AI-Driven Risk Management ........................................................... 25
+12.4 AI Techniques for Risk Management Practices ....................................................... 25
+12.4.1 Cost Modelling Methods.................................................................................. 25
+2
+
+=== PAGE 3 ===
+12.4.2 Time Modelling Methods ................................................................................. 26
+12.4.3 Risk Modelling methods .................................................................................. 26
+12.5 AI-Driven Risk Management for Sustainable Decision-Making............................. 27
+12.6 Hypothesis Development ......................................................................................... 28
+12.6.1 Impact of Risk Process Alignment on Risk Management Effectiveness in
+Hybrid Project Environments .......................................................................................... 28
+12.6.2 Influence of Risk Visibility Integration on Risk Management Effectiveness .. 29
+12.6.3 Effect of Timely Risk Escalation on Risk Management Effectiveness ........... 30
+12.6.4 Role of Governance Consistency in Enhancing Risk Management Effectiveness
+30
+12.6.5 Impact of AI-Driven Risk Analytics Capability on Risk Management
+Effectiveness .................................................................................................................... 31
+12.7 Research Gap ........................................................................................................... 32
+13 CHAPTER-3 .................................................................................................................... 32
+14 Methodology .................................................................................................................... 32
+14.1 Introduction .............................................................................................................. 32
+14.2 Research design ....................................................................................................... 33
+14.3 Ethical Considerations ............................................................................................. 33
+14.3.1 Informed Consent............................................................................................. 33
+14.3.2 Voluntary Participation .................................................................................... 34
+14.3.3 Anonymity ....................................................................................................... 34
+14.3.4 Data Confidentiality ......................................................................................... 34
+14.4 Objectives ................................................................................................................ 34
+14.5 Hypothesis................................................................................................................ 35
+14.6 Conceptual framework ............................................................................................. 36
+14.7 Sample Design ......................................................................................................... 36
+14.8 Data collection ......................................................................................................... 37
+14.9 Source of data .......................................................................................................... 37
+14.9.1 Primary source: ................................................................................................ 38
+14.9.2 Secondary Data ................................................................................................ 39
+14.10 Sampling Technique ............................................................................................. 39
+14.11 Inclusion and exclusion Criteria .......................................................................... 39
+14.12 Measures .............................................................................................................. 40
+14.13 Tools and techniques ............................................................................................ 41
+3
+
+=== PAGE 4 ===
+14.14 Summary .............................................................................................................. 47
+15 CHAPTER-4 .................................................................................................................... 47
+16 Results .............................................................................................................................. 47
+16.1 Demographics .......................................................................................................... 47
+16.2 Discriminant Validity ............................................................................................... 59
+16.3 SEM (Structural Equational Modelling) .................................................................. 61
+16.4 Proposed Hypothesis ................................................................................................ 61
+Hypothesis 1......................................................................................................................... 61
+Hypothesis 2......................................................................................................................... 64
+Hypothesis 3......................................................................................................................... 67
+Hypothesis 4......................................................................................................................... 70
+Hypothesis 5......................................................................................................................... 73
+17 CHAPTER 5 .................................................................................................................... 78
+18 DISCUSSION .................................................................................................................. 78
+19 CHAPTER 6 .................................................................................................................... 81
+20 CONCLUSION ................................................................................................................ 81
+21 References ........................................................................................................................ 85
+2 List of Figures
+Figure 1 Conceptual Framework of AI-Driven Strategic Risk Management in Hybrid
+Project Environments ............................................................................................................ 36
+Figure 2 Descriptive Statistics of Study Variables .............................................................. 54
+3 List of Tables
+Table 1 Comparative analysis—Traditional vs. AI-driven risk management .................. 27
+Table 2 Demographic Variables ............................................................................................ 47
+Table 3 Descriptive Statistics of Study Variables ................................................................ 52
+Table 4 Factor Loadings from Confirmatory Factor Analysis (CFA) ...................................... 55
+Table 5 KMO and Bartlett's Test .............................................................................................. 58
+Table 6 Convergent Validity Assessment (AVE and Composite Reliability) ............................ 58
+Table 7 Discriminant Validity Matrix (Fornell-Larcker Criterion) .......................................... 59
+Table 8 Overall Model Fit Indices for Measurement Model ................................................... 60
+Table 10 Regression Weights: (Group number 1 - Default model) .................................... 62
+4
+
+=== PAGE 5 ===
+Table 11 Model Fit Summary ................................................................................................ 63
+Table 11 Regression Weights: (Group number 1 - Default model) .......................................... 64
+Table 12 Model Fit Summary .................................................................................................. 66
+Table 13 Regression Weights: (Group number 1 - Default model) ......................................... 67
+Table 14 Model Fit Summary .................................................................................................. 69
+Table 16 Regression Weights: (Group number 1 - Default model) .................................... 71
+Table 17 Model Fit Summary ............................................................................................... 72
+Table 18 SEM Results for H5: AI-Driven Risk Analytics Capability → Risk Management
+Effectiveness ........................................................................................................................... 74
+Table 19 Model Fit Indices for H5 Structural Model ......................................................... 75
+4 OBJECTIVES OF THE THESIS
+The primary objective of this thesis is to examine the structural determinants of Risk
+Management Effectiveness in Hybrid Project Environments, with particular emphasis on the
+role of AI-Driven Strategic Risk Management. Hybrid project environments, characterized by
+the coexistence of Agile and Waterfall methodologies, introduce structural complexity,
+governance fragmentation, and dynamic risk interactions that challenge traditional risk
+management approaches. This research seeks to empirically investigate how strategic
+governance mechanisms and AI-driven analytical capabilities jointly influence effective risk
+outcomes.
+The specific objectives of the thesis are as follows:
+1. To examine the impact of Risk Process Alignment between Agile and Waterfall
+methodologies on Risk Management Effectiveness in hybrid project environments.
+2. To analyse the influence of Risk Visibility Integration on Risk Management
+Effectiveness in hybrid projects.
+3. To assess the effect of Timely Risk Escalation on Risk Management Effectiveness in
+hybrid project environments.
+4. To evaluate the role of Governance Consistency in enhancing Risk Management
+Effectiveness in hybrid projects.
+5. To examine the impact of AI-Driven Risk Analytics Capability on overall Risk
+Management Effectiveness in hybrid project environments using Structural Equation
+Modelling (SEM).
+5
+
+=== PAGE 6 ===
+5 THE STRUCTURE OF THE THESIS
+This thesis is structured into six interrelated chapters, each contributing systematically to the
+development, validation, and interpretation of the research model.
+Chapter 1: Introduction
+Presents the background of the study, problem statement, research gap, objectives, research
+questions, significance of the study, and the overall structure of the thesis.
+Chapter 2: Literature Review
+Reviews existing literature on project risk management, hybrid project methodologies,
+strategic risk governance, and AI-driven risk analytics. The chapter establishes the theoretical
+foundation and develops the hypotheses for empirical testing.
+Chapter 3: Methodology
+Describes the research design, sampling strategy, data collection methods, measurement
+instruments, ethical considerations, and statistical techniques employed, including
+Confirmatory Factor Analysis (CFA) and Structural Equation Modelling (SEM).
+Chapter 4: Results
+Presents the empirical findings of the study, including descriptive statistics, measurement
+model validation, model fit indices, and hypothesis testing results derived from SEM analysis.
+Chapter 5: Discussion
+Interprets the findings in relation to existing theories and prior research, highlighting theoretical
+contributions, managerial implications, and AI governance insights.
+Chapter 6: Conclusion
+Summarizes the key findings, outlines the contributions of the study, discusses limitations, and
+provides recommendations for future research.
+6 AUTHOR’S PRESENTATION
+The author undertook this research with the objective of contributing to the evolving body of
+knowledge on AI-driven strategic risk management in hybrid project environments.
+Recognizing the increasing complexity of contemporary projects and the limitations of
+6
+
+=== PAGE 7 ===
+traditional risk management approaches, the study adopts a rigorous quantitative methodology
+to empirically validate an integrated governance and AI capability framework.
+The research emphasizes the role of structural alignment, governance consistency, and
+analytical intelligence as critical enablers of effective risk management. By applying Structural
+Equation Modelling (SEM) on data collected from professionals across diverse industries, the
+author ensures methodological robustness and empirical credibility. The findings are intended
+to support both academic advancement and practical decision-making in complex project
+ecosystems.
+7 APPENDICES
+The appendices provide supplementary material that supports the main body of the thesis and
+enhances transparency and replicability of the research. These materials are referenced where
+appropriate within the chapters.
+• Appendix A: Research Questionnaire
+• Appendix B: Informed Consent Form
+• Appendix C: Measurement Scale Items and Sources
+• Appendix D: Reliability and Validity Statistics
+• Appendix E: CFA and SEM Output Tables
+• Appendix F: Ethical Approval and Declarations
+8 THE FIVE KEY STEPS OF THE THESIS
+The research process followed five systematic and sequential steps to ensure rigor and
+coherence:
+1. Problem Identification and Theoretical Framing
+Identification of research gaps in hybrid project risk management and AI governance,
+followed by development of a theoretically grounded conceptual framework.
+2. Model Development and Hypothesis Formulation
+Construction of an integrated structural model incorporating governance mechanisms
+and AI-driven risk analytics capability, leading to formulation of testable hypotheses.
+3. Research Design and Data Collection
+7
+
+=== PAGE 8 ===
+Adoption of a quantitative research design, development of validated measurement
+instruments, and collection of primary data from professionals involved in hybrid
+project environments.
+4. Data Analysis and Model Validation
+Application of statistical techniques including reliability analysis, Confirmatory Factor
+Analysis (CFA), and Structural Equation Modelling (SEM) to test relationships and
+validate the model.
+5. Interpretation, Contribution, and Conclusion
+Interpretation of empirical findings, articulation of theoretical and practical contributions,
+discussion of limitations, and formulation of recommendations for future research.
+8
+
+=== PAGE 9 ===
+Abstract
+The increasing adoption of hybrid project methodologies integrating Agile adaptability with
+Waterfall structure has introduced significant complexity into organizational risk governance.
+Traditional risk management approaches, primarily reliant on manual assessment and static
+control frameworks, often struggle to address the dynamic and fragmented nature of hybrid
+environments. Concurrently, Artificial Intelligence (AI) has emerged as a strategic enabler of
+predictive analytics, real-time monitoring, and data-driven decision support. However, limited
+empirical research has examined how AI capability interacts with structural governance
+mechanisms to influence overall risk management effectiveness in hybrid project settings.
+This study investigates the structural determinants of Risk Management Effectiveness in
+Hybrid Project Environments, with particular emphasis on AI-Driven Risk Analytics
+Capability. A quantitative research design was employed using primary data collected from 384
+project professionals across diverse industries. Structural Equation Modelling (SEM) was
+utilized to examine the direct effects of five key dimensions: Risk Process Alignment, Risk
+Visibility Integration, Timely Risk Escalation, Governance Consistency, and AI-Driven Risk
+Analytics Capability. The findings reveal that Risk Process Alignment, Governance
+Consistency, and AI-Driven Risk Analytics Capability have statistically significant and positive
+effects on Risk Management Effectiveness. Among these, AI-Driven Risk Analytics Capability
+emerged as one of the strongest predictors, indicating that advanced analytical intelligence
+substantially enhances predictive foresight and decision quality in hybrid settings. In contrast,
+Risk Visibility Integration demonstrated only a marginal direct effect, while Timely Risk
+Escalation did not exhibit a statistically significant influence. These results suggest that
+structural coherence and technological capability exert greater impact on risk outcomes than
+operational transparency or escalation responsiveness alone. The study contributes to project
+management and risk governance literature by positioning AI capability as a strategic structural
+determinant rather than a peripheral technological tool. It advances hybrid project theory by
+demonstrating that effectiveness depends on deliberate integration of governance consistency
+and process alignment. Practically, the findings provide evidence-based guidance for managers
+seeking to strengthen risk governance in complex project ecosystems. The research concludes
+that sustainable risk performance in hybrid environments requires integrated structural
+alignment, governance stability, and AI-driven analytical intelligence.
+9
+
+=== PAGE 10 ===
+Keywords: AI-Driven Risk Management, Hybrid Project Environments, Structural Equation
+Modelling (SEM), Governance Consistency, Risk Process Alignment, Risk Visibility
+Integration, Timely Risk Escalation, Risk Analytics Capability, Project Risk Governance, Risk
+Management Effectiveness
+9 CHAPTER-1
+10 Introduction
+The contemporary project landscape is undergoing a profound transformation driven by
+technological advancement, organizational globalization, and increasing environmental
+volatility. Projects today are no longer isolated, linear undertakings; instead, they are complex
+socio-technical systems embedded within dynamic organizational and external environments.
+This complexity has significantly increased project exposure to uncertainty, making risk an
+inherent and continuous feature across the project lifecycle rather than a discrete event
+addressed at predefined stages (Flyvbjerg, 2017; Williams et al., 2010).
+Despite the centrality of risk in modern projects, traditional project risk management practices
+remain largely rooted in deterministic planning paradigms. These practices typically rely on
+static risk registers, periodic assessments, and subjective expert judgment, which often fail to
+capture evolving risk interactions, emergent threats, and non-linear causal relationships (Ward
+& Chapman, 2003; Aven, 2016). As project environments become more data-intensive and
+time-sensitive, such approaches increasingly struggle to provide timely, accurate, and
+actionable insights for decision-makers.
+Artificial Intelligence (AI) has emerged as a critical enabler capable of addressing these
+limitations by fundamentally redefining how project risks are identified, assessed, and
+managed. Rather than serving as a standalone automation tool, AI represents a paradigm shift
+toward adaptive, learning-based, and evidence-driven risk governance. By leveraging machine
+learning, predictive analytics, and intelligent monitoring systems, AI enables continuous
+sensing of project conditions, early detection of weak risk signals, and dynamic updating of
+risk profiles in real time (Jordan & Mitchell, 2015; Raisch & Krakowski, 2021).
+AI-driven analytical models are particularly effective in environments characterized by large
+volumes of heterogeneous data. Project data—ranging from schedules, budgets, and
+10
+
+=== PAGE 11 ===
+performance metrics to communication logs and stakeholder feedback—can be integrated and
+analyzed to uncover latent patterns and interdependencies that are beyond human cognitive
+capacity (Provost & Fawcett, 2013; Biesenthal et al., 2022). Predictive models built on such
+data can forecast schedule slippages, cost escalations, and performance degradation with
+greater accuracy than traditional rule-based methods, enabling earlier and more targeted risk
+mitigation interventions (Zhang et al., 2021; Shao et al., 2025).
+From a decision-theoretic perspective, AI-based risk management systems address inherent
+limitations of human judgment, including bounded rationality, cognitive bias, and information
+overload (Simon, 1997; Kahneman, 2011). While human expertise remains essential for
+contextual interpretation and ethical judgment, AI enhances decision quality by providing
+consistent, scalable, and data-driven insights. This synergy between human and artificial
+intelligence has given rise to hybrid decision-making models that improve both the speed and
+robustness of risk-related decisions in complex projects (Raisch & Krakowski, 2021; Hanaysha
+et al., 2021).
+The growing maturity of AI technologies has accelerated their adoption in large-scale and
+mission-critical projects. Organizations operating in sectors such as manufacturing, finance,
+aerospace, and public infrastructure increasingly embed AI-based systems within their project
+governance frameworks to enhance visibility, automate risk monitoring, and optimize response
+strategies (Bughin et al., 2018; Treacy et al., 2025). These developments indicate a shift from
+experimental adoption toward institutionalized use of AI in project risk management, signaling
+its strategic importance for organizational resilience and competitiveness.
+At the same time, the integration of AI into project management raises important questions
+regarding governance, transparency, and managerial control. Effective use of AI requires
+alignment between technological capabilities, organizational processes, and decision authority
+structures. Without such alignment, AI systems risk becoming opaque tools that generate
+outputs without meaningful integration into managerial workflows (Marnewick et al., 2020;
+Dwivedi et al., 2023). Consequently, understanding how AI-enabled risk management operates
+within real project contexts has become a critical area of scholarly inquiry.
+11
+
+=== PAGE 12 ===
+10.1 Background and Significance of Artificial Intelligence in IT Project Management
+The relevance of AI is particularly pronounced in the context of IT project management, where
+uncertainty, complexity, and rapid change are defining characteristics. IT projects often involve
+evolving requirements, fast-paced technological innovation, and interdependent system
+architectures, making them highly susceptible to risks related to scope creep, integration
+failure, and resource misalignment (Sauer et al., 2007; Standish Group, 2020). Historical
+evidence consistently shows that a significant proportion of IT projects fail to meet their
+original objectives, underscoring the need for more advanced and adaptive risk management
+approaches.
+Traditional IT project management frameworks emphasize upfront planning and periodic
+control mechanisms, which may be insufficient in environments where requirements and
+technologies evolve continuously. Artificial Intelligence introduces a fundamentally different
+approach by enabling continuous, real-time decision support across the entire project lifecycle.
+Through the application of machine learning, natural language processing (NLP), and advanced
+analytics, AI systems assist project managers in interpreting complex information streams and
+anticipating future project states with greater accuracy (Wamba et al., 2021; Siau & Wang,
+2018).
+One of the most significant contributions of AI to IT project management lies in its ability to
+integrate structured and unstructured data sources. Structured data, such as schedules, budgets,
+and defect metrics, can be combined with unstructured data, including emails, meeting
+transcripts, and issue reports, to generate a more comprehensive and nuanced understanding of
+project risk exposure (Provost & Fawcett, 2013; Biesenthal et al., 2022). This holistic data
+integration enables earlier detection of emerging risks and supports proactive rather than
+reactive management strategies.
+AI systems further enhance IT project risk management through adaptive learning capabilities.
+As projects progress and new data become available, AI models can update their predictions
+and recommendations, maintaining relevance in dynamic environments. This continuous
+learning feature is particularly valuable in IT projects, where changing stakeholder expectations
+and technological dependencies can rapidly alter risk profiles (March, 1991; Zhang et al.,
+2021).
+In addition to analytical improvements, AI has reshaped coordination and communication
+mechanisms within IT project teams. AI-enabled dashboards, intelligent assistants, and
+12
+
+=== PAGE 13 ===
+automated reporting tools facilitate real-time information sharing and improve transparency
+across geographically distributed teams (Fountaine et al., 2019). Enhanced visibility and
+communication are critical for managing interdependencies and ensuring timely escalation of
+risks in complex IT projects.
+From a strategic and sustainability perspective, AI-enabled risk management contributes to
+long-term organizational resilience. Sustainable project outcomes depend not only on meeting
+immediate performance targets but also on managing risks that threaten long-term value
+creation, social responsibility, and resource efficiency (Elkington, 1997; United Nations, 2015).
+By improving risk anticipation, decision quality, and adaptive capacity, AI strengthens
+organizational ability to navigate uncertainty and supports more sustainable and responsible IT
+project execution (Aven & Renn, 2010)
+10.2 Theoretical Background
+10.2.1 Definition of Project Risk Management
+Project risk management is a systematic and structured process that aims to identify, assess,
+and manage risks that may affect project results. It is a process that enables the measurement
+of risks and the development of strategies to mitigate risks and avoid undesirable outcomes
+(Faruk, 2025). (Kaplan & Garrick, 1981) describe risk as a product of the probability of
+occurrence of an event and its potential consequences. This is a quantitative method that
+enables organizations to manage risks and develop strategies to avoid disruptions.
+An effective risk management process includes a number of key elements, such as risk
+identification, risk analysis, risk response planning, and risk monitoring. Risk identification is
+the process of identifying potential risks that may impede the success of a project, while risk
+analysis is the process of determining the risk potential of each risk situation. After the risks
+have been analysed, risk response plans can be developed, which may include risk avoidance,
+risk reduction, risk transfer, or risk acceptance.
+10.2.2 AI technologies Applicable to Risk Management
+The incorporation of artificial intelligence (AI) in risk management has revolutionized the way
+risks are identified, analysed and mitigated. AI-based risk management tools are more efficient,
+accurate, and scalable than their conventional counterparts, allowing organizations to
+effectively mitigate risks in real-time. AI-based risk assessment employs a range of advanced
+13
+
+=== PAGE 14 ===
+technologies to enhance predictive accuracy and automate risk mitigation plans (Dutta, D., &
+Bose, 2015). The primary AI technologies that can be leveraged for risk management are:
+Machine Learning (ML) – Machine learning algorithms are used to analyse large datasets to
+detect patterns and predict risks, and then suggest ways to mitigate them. Machine learning
+models improve their accuracy levels by learning from new data, making them very effective
+in detecting anomalies, predicting system failures, and identifying vulnerabilities in critical
+infrastructure systems.
+Natural Language Processing (NLP) – NLP technologies help AI systems to derive meaningful
+insights from unstructured text sources like security updates, intelligence meetings, social
+media updates, and live communications. By analysing language patterns, NLP-based AI
+solutions can detect potential threats, point out misinformation campaigns, and offer warning
+signs for potential risks.
+Deep Learning (DL) – Deep learning algorithms, especially neural networks, improve risk
+detection abilities by processing unstructured data, like images, videos, and sensor inputs. Deep
+learning models are commonly employed in domains such as biometric security, surveillance
+analytics, and automated anomaly detection in cybersecurity solutions (Wenzel, M., Krause,
+B., & Wagner, 2022).
+Through the integration of these AI technologies, risk management frameworks can be made
+more adaptable, precise, and responsive. AI-based risk assessment tools are capable of handling
+large amounts of diverse data, thus minimizing the possibility of human error and allowing
+organizations to shift from a reactive to a proactive risk management strategy. The ability of
+AI to quickly analyse risk scenarios, simulate risks, and provide recommendations on the best
+risk mitigation strategies makes it a crucial component of risk governance frameworks.
+Theoretical background of risk management offers the required context to appreciate the role
+of AI in improving risk identification, mitigation, and response strategies. Conventional risk
+management strategies, although helpful, have become less effective in dealing with the
+dynamic risks that critical infrastructure and national security projects are exposed to. The
+adoption of AI technologies such as ML, NLP, and DL has brought about a paradigm shift in
+risk management strategies, enabling real-time analysis of threats and automated decision
+support. As AI technology evolves, its application in risk management will become more
+prominent, leading to improvements in resilience, efficiency, and overall security in high-risk
+sectors.
+14
+
+=== PAGE 15 ===
+10.3 Problem Statement
+The rapid evolution of project environments particularly the rise of hybrid methodologies
+combining Agile flexibility with Waterfall structure has significantly altered the nature of risk
+management. While traditional project risk management literature has extensively examined
+structured risk identification, qualitative and quantitative assessment methods, and governance
+frameworks, most studies are grounded in conventional predictive environments. These studies
+emphasize documentation, control mechanisms, and hierarchical escalation structures but do
+not adequately address the procedural complexity introduced when adaptive and predictive
+methodologies coexist within the same project ecosystem.
+In parallel, a growing body of research has explored the application of Artificial Intelligence
+(AI) in project management and risk governance. These studies primarily focus on machine
+learning for cost prediction, predictive analytics for schedule overruns, anomaly detection in
+IT systems, and automation of risk monitoring dashboards. Although this body of literature
+demonstrates the technological potential of AI in improving forecasting accuracy and
+operational efficiency, it largely treats AI as a standalone technological enhancement rather
+than as an integrated strategic capability embedded within broader governance and procedural
+systems.
+A critical limitation in existing scholarship is the lack of empirical integration between
+structural governance mechanisms and AI-driven analytical capabilities within hybrid project
+contexts. Most prior studies examine either (1) traditional risk management practices without
+AI integration, or (2) AI-based analytics without embedding them within formal governance
+structures and aligned risk processes. There remains a significant absence of comprehensive
+structural models that simultaneously test how procedural alignment, governance consistency,
+operational visibility, escalation mechanisms, and AI-driven analytics interact to influence
+overall risk management effectiveness.
+Moreover, the majority of empirical investigations into AI-enabled risk management rely on
+descriptive case studies, conceptual frameworks, or technology adoption surveys. Very few
+studies employ rigorous multivariate statistical approaches particularly Structural Equation
+Modelling (SEM) to examine causal relationships among governance structures, process
+alignment, AI capability, and performance outcomes. The absence of SEM-based validation
+limits the ability to understand not merely whether AI contributes to risk management, but how
+15
+
+=== PAGE 16 ===
+it structurally interacts with governance and process mechanisms to produce measurable
+effectiveness.
+Hybrid project environments further intensify this gap. By design, hybrid methodologies
+integrate Agile adaptability with Waterfall predictability. While this integration offers
+flexibility and control, it also introduces structural fragmentation. Agile teams often operate
+with decentralized decision-making, iterative planning cycles, and lightweight documentation,
+whereas Waterfall components rely on formal stage-gates, structured risk registers, and
+hierarchical reporting channels. This methodological duality can create inconsistencies in risk
+documentation, ambiguity in escalation authority, duplication of monitoring mechanisms, and
+misalignment in governance oversight. Without deliberate structural harmonization, risk
+management processes may operate in parallel silos rather than as a coherent system.
+Existing research has not sufficiently examined how AI capability functions within such
+fragmented environments. It remains unclear whether AI-driven analytics independently
+improves risk outcomes, or whether its effectiveness depends on aligned processes and
+consistent governance frameworks. Similarly, the relative contribution of structural factors
+(such as governance consistency and process alignment) versus operational mechanisms (such
+as visibility and escalation) has not been empirically disentangled in hybrid contexts.
+Therefore, a significant research gap exists at the intersection of AI capability, strategic risk
+governance, and hybrid project environments. There is a need for an integrated empirical model
+that simultaneously examines multiple structural dimensions of risk governance and evaluates
+their direct influence on risk management effectiveness using robust statistical techniques.
+Specifically, the literature lacks:
+1. Empirical SEM-based validation of AI-driven strategic risk management models in
+hybrid project settings.
+2. Integrated structural testing of AI capability alongside governance consistency and risk
+process alignment.
+3. Comparative assessment of structural versus operational risk mechanisms within hybrid
+environments.
+4. Evidence clarifying how fragmentation inherent in hybrid methodologies influences
+risk governance effectiveness.
+16
+
+=== PAGE 17 ===
+This study addresses these gaps by developing and empirically testing a comprehensive
+structural model of AI-driven strategic risk management within hybrid project environments.
+Using data collected from 384 professionals and analysed through Structural Equation
+Modelling (SEM), the study examines the direct influence of Risk Process Alignment, Risk
+Visibility Integration, Timely Risk Escalation, Governance Consistency, and AI-Driven Risk
+Analytics Capability on Risk Management Effectiveness. By integrating technological
+capability with structural governance dimensions, the research moves beyond isolated
+examinations of AI tools or traditional risk processes and provides a unified framework for
+understanding how hybrid risk governance systems can be optimized.
+In doing so, the study contributes to advancing project risk management theory by positioning
+AI capability not as an auxiliary tool, but as a strategic enabler embedded within aligned
+procedural and governance architectures. It also responds to the increasing practical need for
+evidence-based guidance on managing risk in complex hybrid environments where
+methodological fragmentation and digital transformation converge.
+10.4 Research Objectives
+The primary objective of this study is to examine the structural determinants of Risk
+Management Effectiveness in Hybrid Project Environments, with particular emphasis on the
+role of AI-driven strategic risk management capabilities. In hybrid contexts where Agile and
+Waterfall methodologies coexist, risk governance mechanisms must operate cohesively despite
+procedural and structural differences. This study therefore seeks to empirically investigate how
+both structural and technological dimensions influence overall risk performance outcomes.
+Specifically, the study aims to achieve the following objectives:
+1. To examine the impact of Risk Process Alignment between Agile and Waterfall
+methodologies on Risk Management Effectiveness in hybrid project environments.
+2. To analyse the influence of Risk Visibility Integration on Risk Management
+Effectiveness in hybrid projects.
+3. To assess the effect of Timely Risk Escalation on Risk Management Effectiveness in
+hybrid project environments.
+4. To evaluate the role of Governance Consistency in enhancing Risk Management
+Effectiveness in hybrid projects.
+17
+
+=== PAGE 18 ===
+5. To examine the impact of AI-Driven Risk Analytics Capability on overall Risk
+Management Effectiveness in hybrid project environments.
+Through these objectives, the study seeks to develop and empirically validate an integrated
+structural model that explains how procedural alignment, governance stability, operational
+mechanisms, and advanced analytical capability collectively shape risk governance outcomes
+in complex hybrid project settings.
+10.5 Research Questions
+In order to address the identified research gap and achieve the stated objectives, this study
+formulates the following research questions. These questions are designed to empirically
+examine the structural relationships between key dimensions of AI-driven strategic risk
+management and Risk Management Effectiveness in Hybrid Project Environments:
+RQ1: Does Risk Process Alignment between Agile and Waterfall methodologies significantly
+influence Risk Management Effectiveness in hybrid project environments?
+RQ2: Does Risk Visibility Integration significantly influence Risk Management Effectiveness
+in hybrid project environments?
+RQ3: Does Timely Risk Escalation significantly influence Risk Management Effectiveness in
+hybrid project environments?
+RQ4: Does Governance Consistency significantly influence Risk Management Effectiveness
+in hybrid project environments?
+RQ5: Does AI-Driven Risk Analytics Capability significantly influence Risk Management
+Effectiveness in hybrid project environments?
+Collectively, these research questions seek to determine which structural and technological
+dimensions serve as primary drivers of effective risk governance in hybrid projects. By
+examining these relationships simultaneously through Structural Equation Modelling (SEM),
+the study aims to provide empirical clarity on the relative contribution of procedural alignment,
+governance stability, operational mechanisms, and AI-enabled analytics to overall risk
+management performance.
+18
+
+=== PAGE 19 ===
+10.6 Significance of the Study
+The significance of this study lies in its contribution to advancing theoretical understanding,
+improving managerial practice, informing policy considerations, and clarifying the governance
+implications of Artificial Intelligence (AI) in hybrid project environments. As organizations
+increasingly adopt hybrid methodologies and integrate AI-driven tools into risk governance
+systems, there is a growing need for empirically grounded insights into how structural and
+technological dimensions collectively influence risk management effectiveness.
+10.6.1 Academic Significance
+From an academic perspective, this study contributes to the project management and risk
+governance literature in several important ways. First, it extends traditional project risk
+management theory by integrating AI-Driven Risk Analytics Capability as a structural
+determinant of risk management effectiveness rather than treating AI as merely a technological
+tool. Second, it advances hybrid project management research by empirically examining how
+procedural alignment and governance consistency operate within environments that combine
+Agile adaptability and Waterfall structure.
+Furthermore, the study addresses a methodological gap by employing Structural Equation
+Modelling (SEM) to test an integrated framework that simultaneously evaluates multiple
+dimensions of strategic risk management. Previous research has largely examined these factors
+in isolation or through descriptive approaches. By validating a comprehensive structural model,
+the study strengthens theoretical clarity regarding the relative influence of process alignment,
+governance mechanisms, visibility integration, escalation responsiveness, and AI capability on
+risk performance outcomes.
+10.6.2 Practical Significance
+Practically, the findings provide evidence-based guidance for project managers, PMO leaders,
+risk officers, and organizational executives operating in hybrid project environments. The study
+identifies which structural dimensions most strongly influence risk management effectiveness,
+enabling decision-makers to prioritize investments and interventions accordingly.
+For instance, organizations can focus on harmonizing risk processes across Agile and Waterfall
+components, strengthening governance consistency, and strategically developing AI-driven
+19
+
+=== PAGE 20 ===
+analytics capability rather than relying solely on operational transparency mechanisms. The
+results help managers understand that risk visibility and escalation mechanisms are supportive
+but insufficient without structural integration and analytical maturity. This insight assists
+organizations in allocating resources more effectively to enhance project resilience and
+performance.
+10.6.3 Policy Relevance
+At a broader organizational and institutional level, the study has policy relevance for corporate
+governance frameworks and digital transformation strategies. As enterprises formalize hybrid
+methodologies and adopt AI-based systems for monitoring and decision support, internal risk
+governance policies must evolve to accommodate both procedural complexity and
+technological integration.
+The research highlights the need for structured governance standards that ensure
+accountability, alignment of risk processes, and responsible deployment of AI tools.
+Policymakers within organizations such as boards, executive committees, and enterprise risk
+management units can use the findings to develop policies that integrate AI capability into
+formal risk governance architectures rather than allowing technological tools to operate in
+isolation from established oversight mechanisms.
+10.6.4 AI Governance Implications
+The study also contributes to the emerging discourse on AI governance in organizational
+contexts. As AI systems increasingly influence risk identification, prioritization, and decision-
+making processes, questions of accountability, transparency, and control become critical. The
+findings demonstrate that AI capability yields stronger impact when embedded within
+consistent governance frameworks and aligned risk processes. This suggests that effective AI
+governance requires structural integration rather than standalone technological deployment.
+By empirically showing the interaction between AI-driven analytics capability and governance
+consistency, the study reinforces the importance of establishing oversight structures, clearly
+defined decision rights, and standardized reporting mechanisms when implementing AI in
+project risk management. This has implications for responsible AI adoption, ethical oversight,
+and sustainable digital transformation in complex project ecosystems.
+20
+
+=== PAGE 21 ===
+Overall, the study provides a comprehensive contribution by bridging technological
+innovation, governance architecture, and procedural alignment within hybrid project
+environments. It offers a structured pathway for strengthening AI-driven strategic risk
+management while maintaining accountability, coherence, and performance effectiveness in
+increasingly complex project settings.
+10.7 Structure of the Thesis
+This thesis is organized into six chapters to provide a systematic and coherent presentation of
+the research process and findings.
+Chapter 1: Introduction presents the background of the study, research gap, objectives,
+research questions, significance of the study, and overall structure of the thesis.
+Chapter 2: Literature Review examines existing research on project risk management, hybrid
+project environments, strategic risk governance, and AI-driven analytics capability. It develops
+the theoretical framework and formulates the study hypotheses.
+Chapter 3: Methodology outlines the research design, sampling strategy, data collection
+procedures, measurement instruments, and statistical techniques used for analysis, including
+reliability, validity, and Structural Equation Modelling (SEM).
+Chapter 4: Results present the empirical findings, including descriptive statistics,
+measurement model validation, model fit indices, and hypothesis testing results derived from
+SEM analysis.
+Chapter 5: Discussion interprets the findings in relation to existing literature and theoretical
+foundations, highlighting theoretical implications, managerial insights, and AI governance
+considerations.
+Chapter 6: Conclusion summarizes the key findings, outlines the contributions of the study,
+discusses limitations, and provides recommendations for future research.
+This structured progression ensures logical development from conceptual foundations to
+empirical validation and practical implications, providing a comprehensive understanding of
+AI-driven strategic risk management in hybrid project environments.
+21
+
+=== PAGE 22 ===
+11 CHAPTER-2
+12 2. Literature Review
+The effective management of risks is widely recognized as a critical determinant of project
+success, particularly in complex and dynamic environments where uncertainty, stakeholder
+demands, and regulatory requirements converge. Traditional project management approaches,
+such as the Waterfall methodology, emphasize structured planning and linear execution,
+providing predictability but often lacking flexibility to respond to emergent risks, while agile
+methodologies offer adaptability and iterative processes yet face limitations in large-scale
+infrastructure projects. Hybrid project management, which integrates the predictability of
+traditional approaches with the responsiveness of Agile, has emerged as a practical solution to
+address these challenges, particularly in infrastructure and large-scale projects. Concurrently,
+the advent of artificial intelligence (AI) has transformed risk management by enabling
+predictive analytics, real-time monitoring, and data-driven decision-making, enhancing the
+accuracy and effectiveness of risk mitigation strategies.
+This literature review critically examines the evolution of project risk management, the
+theoretical foundations of strategic risk governance, and the role of AI-enabled tools and
+methodologies in enhancing risk management effectiveness within hybrid project
+environments, highlighting key enablers, gaps, and opportunities for research-driven
+improvements.
+12.1 Overview of Risk Management in Project Management
+Project risk management (PRM) is essential for project success, focusing on identifying,
+analyzing, and mitigating risks throughout a project's lifecycle. It employs systematic
+approaches, integrating risk assessment and mitigation strategies, alongside ongoing
+monitoring to reduce uncertainties. According to (Okafor, 2021) effective PRM involves core
+principles, methodologies, and best practices, emphasizing the role of risk management tools,
+stakeholder engagement, and structured decision-making frameworks. Case studies highlighted
+in the research demonstrate that proactive risk management prevents cost overruns, schedule
+delays, and quality issues, stressing the importance of integrating risk management into project
+planning and execution to enhance resilience and sustainability.
+22
+
+=== PAGE 23 ===
+(Adebayo, 2024) analyzed best practices in risk management, including risk identification,
+assessment techniques, and mitigation strategies. It emphasizes the importance of proactively
+seeking potential threats and prioritizing risks based on their impact. The article also discussed
+the evolving nature of project risks, exacerbated by technological advancements and global
+challenges like cybersecurity threats. A comprehensive table outlines key risk management
+tools, providing insights into effective applications across various sectors. Strong risk
+management not only protects project outcomes but also fosters organizational resilience,
+enabling adaptation to change and enhancing competitive advantage.
+(Ebule, 2025) highlighted the increasing need for effective risk management in modern projects
+due to increasing complexity and uncertainty. It explores best practices in risk management
+and opportunity exploitation, focusing on risk definition, assessment, and management
+strategies within the context of project management. Key measures include stakeholder
+management and both quantitative and qualitative risk assessment methods. The discussion is
+bolstered by live examples, highlighting the role of effective risk management in facilitating
+positive change.
+(Abazid & Harb, 2018) Conceptualized risk and its consequences in construction and
+management operations. It discusses utilities and techniques for risk control in the construction
+industry, alongside the effect of risk on project assessment. The research focused on effective
+risk management implementation, evaluating various techniques to reduce risk, understanding
+the utility of risk management implementation, and identifying factors that influence risk
+management throughout project life cycles. Additionally, it distinguishes risk management
+practices specific to construction projects in the Arab region.
+12.2 Strategic Risk Management: Theoretical Foundations
+Strategic risk management (SRM) extends conventional risk management by integrating risk
+considerations into organizational strategy and governance frameworks. SRM emphasizes
+aligning risk policies with strategic objectives, promoting executive oversight, performance
+monitoring, and risk-informed decision-making. The theoretical foundations of SRM are
+derived from Enterprise Risk Management (ERM) theory, governance theory, dynamic
+capability theory, and the resource-based view (RBV). These frameworks collectively
+highlight the importance of proactive risk governance in sustaining organizational resilience
+and competitive advantage.
+23
+
+=== PAGE 24 ===
+While SRM frameworks provide robust principles for governance and oversight, the literature
+suggests that empirical research on AI-enabled strategic governance in hybrid project contexts
+remains limited. Hybrid projects, which combine traditional planning with agile
+methodologies, present unique governance challenges that require integrating adaptive
+decision-making processes with predictive risk analytics.
+12.2.1 Hybrid Project Management in Infrastructure Projects
+Project management has historically relied on structured, sequential models, particularly the
+Waterfall approach, to manage large-scale infrastructure developments. These methods
+emphasize upfront planning, scope definition, detailed scheduling, and linear execution,
+offering predictability and control (Kerzner, 2023). In infrastructure projects where physical
+deliverables, fixed budgets, and regulatory scrutiny dominate such predictability is crucial.
+However, rigid models often fail to accommodate mid-project changes, emerging risks, or
+stakeholder demands, particularly in volatile economic or environmental conditions (Hosseini
+et al., 2023).
+The limitations of traditional methods in dynamic environments have fueled interest in more
+adaptive approaches. Agile project management, developed for fast paced software
+development environments, is characterized by short iteration cycles, frequent customer
+feedback, minimal upfront planning, and collaborative team structures (Hoda & Murugesan,
+2023). Despite these advantages, the direct application of Agile in infrastructure is constrained
+by dependencies on physical assets, strict compliance requirements, and longer project
+durations (Khan & Al-Shammari, 2023).
+Hybrid project management methodologies emerged as a practical response to the
+incompatibility of pure Agile in non-software environments. These approaches aim to combine
+the adaptability of Agile with the structure and control of traditional models (Praveen, 2025).
+In large-scale infrastructure settings, hybrid methodologies typically apply Agile principles in
+design, planning, or stakeholder communication phases, while maintaining traditional controls
+in procurement, construction, and regulatory compliance. Research by (Bjorvatn & Wald,
+2023) emphasizes that hybrid approaches are particularly suited for projects operating in
+turbulent or uncertain conditions, where flexibility is needed but must be balanced with
+governance. Similarly, (Denicol et al., 2022) assert that the organizational architecture of
+24
+
+=== PAGE 25 ===
+megaprojects supports hybrid configurations, with core teams functioning iteratively while
+broader functions follow established protocols.
+12.3 Traditional vs. AI-Driven Risk Management
+Traditional risk management techniques and AI-driven risk management approaches
+significantly differ in their methods of data handling processes, analysis, and decision-making.
+In the traditional approach, risk management heavily depends on manual efforts to gather and
+scrutinize data from records and rely on insights from experts (Lundqvist, 2015). In contrast,
+AI-driven risk management exploits machine learning and sophisticated algorithm methods to
+effectively examine and evaluate immense volumes of data (Zigiene et al., 2019). AI systems
+can decipher complex data patterns, assess correlations, and forecast real-time potential hazards
+empowering organizations to react promptly and efficiently. Traditional approaches may
+struggle to scale and adapt to changing risk landscapes (Hopkin, 2018). Whereas AI-driven
+systems are highly scalable and adaptable. Traditional risk management relies on human
+judgments and familiarities, low initial investment, adaptability, and subjectivity; however, it
+may have limitations in scalability, response time, and predictive analysis. On the other hand,
+AI-driven risk management offers advanced analytics, predictive capabilities, automation, real-
+time insights, and a reduced potential for bias, but it may require greater technical expertise
+and raise concerns about data privacy and overreliance on technology (Schuett, 2023). Overall,
+AI-driven methods prioritize advanced analytics and automation, while traditional approaches
+are based on human judgment and familiarity. However, each of these approaches offers
+distinct advantages and complications in managing risks.
+12.4 AI Techniques for Risk Management Practices
+AI technologies have enhanced risk management practices by improving accuracy and
+efficiency in cost modelling, time forecasting, and risk modelling. These approaches allow
+organizations to leverage historical and real-time data to inform decisions, optimize resource
+allocation, and proactively mitigate risks.
+12.4.1 Cost Modelling Methods
+Cost modelling methods are compassed through a three-stage model comprising input, process,
+and output with a key aim of encompassing cost data, evaluation data, productivity, and safety
+data (Datta & Roy, 2010). To mitigate the volatility in project costs, a regularization neural
+network was formulated particularly for cost estimation purposes. An illustration of this is to
+25
+
+=== PAGE 26 ===
+forecast the costs associated with a reinforced concrete structural unit that is engineered to offer
+more stable and accurate cost estimation. Moreover, the utilization of artificial neural networks
+(ANNs) was carried out to monitor project productivity and safety (Matel et al., 2022). A three-
+layered network containing a fuzzy output structure appeared to be most effective considering
+the subjective characteristics of a significant portion of the data. In order to improve the
+accuracy of scheduling analyses and risk identification, extensive AI databases have been
+established. These databases enable project managers to input new project tasks and
+instantaneously acquire feedback regarding predicted actual durations (Pan & Zhang, 2021).
+The verification process involved contrasting the AI output with real project data,
+demonstrating its validity, and offering invaluable information about potential project
+influencers for the intent of risk mitigation strategy. This method brings substantial time
+efficiency when compared to conventional spreadsheet approaches and advances the
+managerial ability for sustainable decision-making.
+12.4.2 Time Modelling Methods
+AI approaches for risk management processes contain a range of time modelling methods that
+attempt to predict the timing and duration of prospective risks accurately. These techniques
+deploy AI algorithms to evaluate past data, determine trends, and predict the timing of
+upcoming occurrences (Salehi & Burgueño, 2018). A time series analysis is a commonly
+employed methodology that entails the examination of sequential datasets in order to detect
+patterns, seasonal variations, and anomalies. Time modelling in risk management often
+involves the utilization of techniques such as autoregressive integrated moving averages
+(ARIMA) and seasonal decomposition of time series (STL) (He et al., 2022) (Schaffer et al.,
+2021). Furthermore, machine learning methods, such as recurrent neural networks (RNNs) and
+long short-term memory (LSTM) networks, possess the capability to effectively capture
+temporal relationships within datasets, enabling them to generate predictions pertaining to
+forthcoming time points (Sherstinsky, 2020). Top management can improve their capacities to
+anticipate and mitigate risks that occur over time by integrating time modelling methodologies
+into their risk management procedures, resulting in improved strategic planning and decision-
+making.
+12.4.3 Risk Modelling methods
+The application of artificial intelligence (AI) technology has had a profound impact on risk
+management practices, namely in the context of risk modelling procedures. These techniques
+utilize sophisticated algorithms and machine learning methods to analyse massive amounts of
+26
+
+=== PAGE 27 ===
+data, identify complex patterns, and forecast possible dangers with unprecedented accuracy in
+comparison to conventional methods (Belhadi et al., 2022). Prominent risk modelling
+techniques in the field of artificial intelligence encompass machine learning algorithms such as
+decision trees and neural networks, natural language processing for the analysis of textual data,
+and fuzzy logic for managing uncertainty (Bansal, M.; Goyal, A.; Choudhary, 2022). The
+integration of AI methodologies into risk management practices facilitates enhanced
+understanding, quantification, and the mitigation of risks in various industries, including
+finance, insurance, cybersecurity, and project management. In turn, this integration fosters
+more informed decision-making processes and yields improved outcomes in risk management.
+12.5 AI-Driven Risk Management for Sustainable Decision-Making
+The existing literature on decision-making identified different enablers that are raising
+organizations’ concerns for sustainable decision-making practices (Isensee et al., 2021)
+(Yigitcanlar, 2021) (Abid et al., 2021) (Javaid et al., 2022). In the context of AI, as suggested
+by (Yaseen, 2021), leveraging AI for proactive risk identification, organizations can analyse
+vast datasets to pinpoint potential risks across various operational facets, including
+environmental impact, supply chain resilience, and regulatory compliance. Moreover, AI-
+driven risk assessments offer a comprehensive approach, considering environmental, social,
+and economic factors, facilitating holistic evaluations and the prioritization of actions to
+minimize adverse effects on sustainability objectives (Abid et al., 2021) . AI-enabled data
+driven decision-making assists businesses to act on insights from past data and prediction
+models, ensuring that actions are in accordance with sustainability objectives and risk-free. In
+addition to maximizing sustainability impact while minimizing waste and optimizing overall
+performance, AI improves resource allocation by spotting inefficiencies and redirecting
+resources accordingly. By keeping checks on data in real-time, organizations are able to adjust
+to unfamiliar circumstances rapidly, availing full advantage of sustainability potential while
+mitigating risks (Ahmed et al., 2022). Therefore, risk management enabled by AI not only aids
+sustainability initiatives but also facilitates organizations’ survival and thriving in a constantly
+changing world.
+Table 1 Comparative analysis—Traditional vs. AI-driven risk management
+Traditional Risk AI-Driven Risk
+Aspect
+Management Management
+Familiarity ✓ ✗
+Human Judgment ✓ ✓
+27
+
+=== PAGE 28 ===
+Low Initial Investment ✓ ✗
+Adaptability ✓ ✗
+Subjectivity ✓ ✗
+Limited Scalability ✓ ✓
+Slow Response Time ✓ ✗
+Difficulty in Predictive Analysis ✓ ✗
+Advanced Analytics ✗ ✓
+Predictive Capabilities ✗ ✓
+Automation ✗ ✓
+Real-time Insights ✗ ✗
+Complexity ✓ ✗
+Data Privacy Concerns ✓ ✓
+Potential for Bias ✓ ✓
+Overreliance on Technology ✗ ✓
+Source: self-constructed from (Baryannis et al., 2019) (Galaz et al., 2021) (Lundqvist, 2015)
+(Afzal et al., 2021) (Aziz & Dowling, 2019) (de Araújo Lima et al., 2020).
+12.6 Hypothesis Development
+12.6.1 Impact of Risk Process Alignment on Risk Management Effectiveness in Hybrid
+Project Environments
+Risk process alignment refers to the consistent integration and synchronization of risk
+management activities such as risk identification, analysis, response planning, and monitoring
+across both Agile and Waterfall methodologies within hybrid project environments. Hybrid
+methodologies combine the structured planning of Waterfall with the iterative flexibility of
+Agile to address complex project requirements. Research shows that hybrid risk management
+enhances resilience and delivers superior project outcomes by blending proactive risk
+identification with adaptive responses, provided that risk processes are aligned across
+methodologies (Leech, 2025).
+Moreover, evidence suggests that misalignment between sequential planning and iterative
+delivery often leads to inconsistent risk practices, resulting in duplication, oversight gaps, and
+reactive risk responses that undermine project objectives (Ibrahim & Bezverkhyi, 2024).
+Empirical studies also point out that hybrid frameworks achieve higher risk responsiveness and
+stakeholder satisfaction when methodological boundaries are bridged through aligned risk
+processes (Praveen, 2025).
+28
+
+=== PAGE 29 ===
+Additionally, the literature on hybrid risk management emphasizes that alignment of
+governance mechanisms and risk workflows across project phases improves visibility, reduces
+escalation delays, and enhances decision quality (Székely et al., 2025). Collectively, these
+studies indicate that when risk process alignment between Agile and Waterfall is achieved,
+hybrid projects are better positioned to handle uncertainty and improve risk mitigation
+effectiveness. Based on the reviewed literature, the following hypothesis is proposed:
+H1: Risk process alignment has a significant positive impact on risk management effectiveness
+in hybrid project environments.
+12.6.2 Influence of Risk Visibility Integration on Risk Management Effectiveness
+Risk visibility integration denotes the practice of consolidating risk information from both
+Agile and Waterfall components into unified dashboards, reports, and communication channels
+so that all stakeholders have access to up-to-date risk status and analytics. Research
+increasingly highlights that higher risk visibility enhances decision-making efficiency in
+complex projects by enabling early identification of threats and facilitating coordinated
+mitigation across teams. For instance, risk visibility allows cross-functional teams to detect
+emerging risks before they escalate, creating opportunities for rapid alignment of mitigation
+actions (Jacob, 2025).
+Literature on hybrid project governance emphasizes that real-time risk tracking and integrated
+reporting systems improve collaboration between agile teams and formal planners, thus
+reducing ambiguity and information silos that typically impair hybrid risk management
+effectiveness (Mirzaei et al., 2025). Furthermore, studies show that enhanced visibility of risk
+metrics across project stages increases transparency, fosters accountability, and supports
+informed strategic interventions.
+Finally, research on automated risk analytics and dashboards argues that tools which integrate
+risk signals from different methodologies are associated with improved responsiveness and
+reduced negative project outcomes, particularly in hybrid contexts where disparate teams
+coexist (Nwosu & Peter, 2025). Therefore, the following hypothesis has been developed:
+H2: Risk visibility integration has a significant positive impact on risk management
+effectiveness in hybrid project environments.
+29
+
+=== PAGE 30 ===
+12.6.3 Effect of Timely Risk Escalation on Risk Management Effectiveness
+Timely risk escalation refers to the rapid elevation of critical risks to decision-making
+authorities or governance bodies once certain thresholds (e.g., cost impact, schedule variance,
+regulatory exposure) are breached. In project environments where Agile iterations and
+Waterfall milestones coexist, the delay in escalation often results in response lag, reduced
+mitigation window, and weakened control over strategic risks. Recent studies show that
+structured escalation protocols tied to predefined risk triggers significantly improve oversight
+and proactive governance, enabling leadership to intervene before risks cause cascading
+disruptions (Jacob, 2025).
+Research on risk governance in hybrid settings further supports that escalation thresholds and
+formal notification mechanisms improve alignment between cross-team processes, ensuring
+that high-impact risks receive priority intervention (Székely et al., 2025). Comparative analyses
+demonstrate that projects with timely escalation systems outperform those with ad-hoc
+escalation practices across metrics such as schedule adherence and stakeholder satisfaction.
+Moreover, real-time risk management literature argues that escalation mechanisms embedded
+within automated analytics alert systems enable more rapid responses to risk deviations,
+resulting in improved resilience and reduced negative outcomes. Based on the reviewed
+literature, the following hypothesis is proposed:
+H3: Timely risk escalation has a significant positive impact on risk management effectiveness
+in hybrid project environments.
+12.6.4 Role of Governance Consistency in Enhancing Risk Management Effectiveness
+Governance consistency refers to the uniform application of policies, standards, roles, and
+decision rights across the hybrid project lifecycle. Consistent governance reduces ambiguity,
+ensures adherence to risk thresholds, and aligns risk oversight across methodological
+boundaries. Recent systematic research on hybrid risk governance emphasizes that
+standardized governance frameworks improve accountability, risk ownership, and integration
+of cross-team processes (Ibrahim & Bezverkhyi, 2024).
+Additionally, literature on project risk and governance highlights that when governance
+structures incorporate both predictive and adaptive risk controls, risk responses are
+30
+
+=== PAGE 31 ===
+implemented more rapidly and consistently, reducing variance in outcomes across teams
+(Nguyen, 2022). Empirical evidence also suggests that consistent governance intersects with
+organizational culture and leadership support to strengthen risk management effectiveness,
+particularly in environments with multiple methodologies.
+Finally, research on digital risk management frameworks shows that governance consistency
+ensures that automated systems and manual processes adhere to shared risk policies, leading to
+fewer gaps and more cohesive mitigation strategies (Kapri, 2023). Based on the reviewed
+literature, the following hypothesis is proposed:
+H4: Governance consistency has a significant positive impact on risk management
+effectiveness in hybrid project environments.
+12.6.5 Impact of AI-Driven Risk Analytics Capability on Risk Management Effectiveness
+AI-driven risk analytics capability refers to the use of advanced technologies such as machine
+learning, predictive modeling, and real-time data analytics to enhance risk detection,
+forecasting, and decision support within project environments. Research consistently
+highlights that AI integration improves risk identification accuracy, enables continuous
+monitoring, and supports proactive risk mitigation far beyond traditional techniques that rely
+on manual judgment and static data (Peri, 2025).
+Recent literature further emphasizes that AI systems significantly enhance project risk
+forecasting accuracy through predictive patterns and continuous learning, enabling managers
+to anticipate disruptions and adjust plans accordingly. Systematic reviews of AI risk methods
+show that hybrid AI models combining multiple analytical techniques provide robust insights
+into complex risk interdependencies and support better risk prioritization and resource
+allocation in uncertain environments (Tanim & Ahmad, 2025).
+Additionally, research suggests that AI-augmented risk management not only increases
+detection capacity but also supports governance practices by providing automated dashboards,
+alerts, and evidence-based recommendations, which improve strategic decision-making (Tian,
+Kun, 2025). Based on the reviewed literature, the following hypothesis is proposed:
+H5: AI-driven risk analytics capability has a significant positive impact on risk management
+effectiveness in hybrid project environments.
+31
+
+=== PAGE 32 ===
+12.7 Research Gap
+Despite the extensive literature on project risk management (PRM) and strategic risk
+management (SRM), several gaps remain in understanding how these practices function within
+hybrid project environments that combine Agile and Waterfall methodologies. Existing studies
+predominantly focus on traditional risk management approaches or general AI applications in
+project risk contexts, with limited empirical evidence on how AI-driven risk analytics
+integrates with hybrid risk governance to enhance effectiveness. While prior research has
+highlighted the benefits of risk process alignment, visibility integration, timely escalation, and
+governance consistency, most studies have examined these factors in isolation, often within
+either fully Agile or fully Waterfall projects. Furthermore, although AI techniques such as
+neural networks, machine learning algorithms, and predictive analytics have been explored for
+cost, time, and risk modelling, there is a paucity of research investigating their practical
+implementation and impact on decision-making across hybrid project phases. The literature
+also indicates limited attention to how AI-enabled risk management supports sustainable
+decision-making and organizational resilience in dynamic and complex project environments.
+Therefore, a comprehensive empirical investigation that integrates AI-driven capabilities with
+hybrid risk management practices addressing alignment, visibility, escalation, and governance
+is needed to fill these gaps and provide actionable insights for enhancing risk management
+effectiveness in hybrid projects.
+13 CHAPTER-3
+14 Methodology
+14.1 Introduction
+Research methodology is the term used to describe the methodical framework that guides the
+research process. It comprises the tools, procedures, and techniques that researchers use to
+collect, analyse, and assess data in order to address a specific research question. Research
+methodology must be learnt in order to conduct research in a systematic, exacting, and
+scientifically sound way.
+In essence, a research technique serves as a roadmap for conducting an inquiry. It assists in
+selecting the most effective methods for data collection, such as surveys, experiments, or
+observational studies, as well as the most effective instruments for data processing, such as
+quantitative analysis and statistical methods (Ruggiano & Perry, 2019). It also involves
+32
+
+=== PAGE 33 ===
+assessing the validity and reliability of the chosen procedures to ensure that the research
+findings are trustworthy and relevant to a larger variety of circumstances. In addition to the
+measurements that were used and the conceptual and operational definitions of variables, the
+chapter examines SEM analysis and the application of various statistical methods. The
+following section presents the findings of research conducted for the tittle “Impact of AI-Driven
+Strategic Risk Management on Risk Management Effectiveness in Hybrid Project
+Environments”.
+14.2 Research design
+A quantitative research approach was considered most suitable for this study because the
+primary objective is to examine and statistically test the impact of AI-driven strategic risk
+management on risk management effectiveness across hybrid project environments.
+Quantitative methods allow for objective measurement of variables such as risk process
+alignment, risk visibility integration, timely risk escalation, governance consistency, and AI-
+driven risk analytics capability, providing a structured framework to analyse relationships
+among these factors. By using standardized questionnaires and Likert-scale items, the study
+can collect numerically quantifiable data from a large sample of 384 professionals, enabling
+generalization of findings to the broader population. Additionally, quantitative analysis
+facilitates the application of Structural Equation Modeling (SEM) to validate complex
+hypothesized relationships, assess the significance of multiple variables simultaneously, and
+provide empirical evidence that supports informed conclusions. This approach offers greater
+reliability, replicability, and precision compared to qualitative or mixed-method approaches,
+which are more suitable for exploratory insights rather than testing predefined hypotheses.
+14.3 Ethical Considerations
+Ethical integrity was maintained throughout the research process to ensure the protection of
+participants and the responsible handling of data. Given that this study involved human
+respondents providing professional insights regarding organizational practices, appropriate
+ethical safeguards were implemented.
+14.3.1 Informed Consent
+All participants were provided with a clear explanation of the study’s purpose, scope, and
+expected time commitment prior to participation. The introductory section of the questionnaire
+33
+
+=== PAGE 34 ===
+outlined the objectives of the research, clarified that the data would be used strictly for
+academic purposes, and explained how the information would be analyzed. Participants were
+required to indicate their consent before proceeding with the survey, thereby confirming their
+informed and voluntary agreement to participate.
+14.3.2 Voluntary Participation
+Participation in the study was entirely voluntary. Respondents were informed that they had the
+right to decline participation or withdraw from the survey at any stage without any
+consequences. No incentives, coercion, or undue influence were used to encourage
+participation. This ensured that responses were provided freely and reflected genuine
+perceptions of risk management practices.
+14.3.3 Anonymity
+To protect respondent identity, the survey did not collect personally identifiable information
+such as names, employee IDs, or specific organizational identifiers. Responses were recorded
+anonymously through the online data collection platform. This anonymity reduced social
+desirability bias and encouraged honest reporting of organizational risk governance practices
+and AI adoption levels.
+14.3.4 Data Confidentiality
+All collected data were treated with strict confidentiality. Survey responses were securely
+stored and accessible only to the researcher for academic analysis. The data were used
+exclusively for research purposes and were not shared with any external parties. Aggregated
+results were reported in statistical form, ensuring that individual respondents or specific
+organizations could not be identified.
+14.4 Objectives
+1. To examine the impact of risk process alignment between Agile and Waterfall
+methodologies on risk management effectiveness in hybrid project environments.
+2. To analyze the influence of risk visibility integration on risk management effectiveness
+in hybrid projects.
+34
+
+=== PAGE 35 ===
+3. To assess the effect of timely risk escalation on risk management effectiveness in hybrid
+project environments.
+4. To evaluate the role of governance consistency in enhancing risk management
+effectiveness in hybrid projects.
+5. To examine the impact of AI-driven risk analytics capability on overall risk
+management effectiveness in hybrid project environments.
+14.5 Hypothesis
+H01: Risk process alignment has no significant impact on risk management effectiveness in
+hybrid project environments.
+H1: Risk process alignment has a significant positive impact on risk management effectiveness
+in hybrid project environments.
+H02: Risk visibility integration has no significant impact on risk management effectiveness in
+hybrid project environments.
+H2: Risk visibility integration has a significant positive impact on risk management
+effectiveness in hybrid project environments.
+H03: Timely risk escalation has no significant impact on risk management effectiveness in
+hybrid project environments.
+H3: Timely risk escalation has a significant positive impact on risk management effectiveness
+in hybrid project environments.
+H04: Governance consistency has no significant impact on risk management effectiveness in
+hybrid project environments.
+H4: Governance consistency has a significant positive impact on risk management
+effectiveness in hybrid project environments.
+H05: AI-driven risk analytics capability has no significant impact on risk management
+effectiveness in hybrid project environments.
+H5: AI-driven risk analytics capability has a significant positive impact on risk management
+effectiveness in hybrid project environments.
+35
+
+=== PAGE 36 ===
+14.6 Conceptual framework
+Figure 1 Conceptual Framework of AI-Driven Strategic Risk Management in Hybrid Project
+Environments
+The conceptual framework depicted in the diagram illustrates the key factors influencing risk
+management effectiveness in hybrid projects. It identifies five critical dimensions: Risk Process
+Alignment, which ensures that risk management procedures are integrated and consistent with
+overall project processes; Risk Visibility Integration, which emphasizes the timely and
+transparent sharing of risk information across stakeholders; Timely Risk Escalation,
+highlighting the importance of promptly addressing emerging risks to prevent escalation;
+Governance Consistency, ensuring that organizational policies, standards, and decision-making
+structures are uniformly applied; and AI-Driven Risk Analytics Capability, reflecting the use
+of artificial intelligence tools to enhance risk identification, assessment, and mitigation.
+Collectively, these dimensions are hypothesized to positively influence the overall
+effectiveness of risk management in hybrid project environments, where traditional and agile
+practices coexist.
+14.7 Sample Design
+In this study, a simple random sampling method was adopted to ensure adequate and unbiased
+representation of professionals working in hybrid project environments, thereby providing a
+well-justified coverage of respondents relevant to examining the impact of AI-driven strategic
+36
+
+=== PAGE 37 ===
+risk management on risk management effectiveness. The sampling framework was designed
+by considering key demographic and professional parameters such as age, gender, educational
+qualification, years of experience, organizational role, industry type, organizational size, and
+level of involvement in hybrid projects, thus ensuring balanced representation across different
+respondent groups. Participants were selected from diverse professional roles, including project
+managers, risk managers, PMO professionals, agile practitioners, and IT professionals, to
+capture varied perspectives on risk management practices and AI adoption in hybrid project
+settings.
+The sampling design also ensured representation across multiple industries and geographical
+locations within India, enhancing the diversity and generalizability of the study findings while
+minimizing sampling bias. The intended and achieved sample size of 384 respondents was
+considered statistically adequate for conducting robust statistical analyses, including Structural
+Equation Modelling (SEM), ensuring the reliability, validity, and generalizability of the
+research outcomes.
+14.8 Data collection
+A quantitative approach was adopted for this study, where systematic data collection
+procedures have been performed to ensure accuracy and reliability. In this respect, primary data
+have been collected through a structured questionnaire with statements containing five-point
+Likert-scale items, ranging from strongly disagree to strongly agree, in order to measure
+perceptions of risk process alignment between Agile and Waterfall methodologies, Risk
+Visibility Integration, Timely Risk Escalation, Governance Consistency, AI-Driven Risk
+Analytics Capability, Risk Management Effectiveness in Hybrid Project. The survey was
+administrated online using Google Forms and email and email distribution, to reach
+professionals actively involved in hybrid project management across various industries. In
+addition, secondary data from relevant academic literature, industry reports, project
+management standards, and published studies were reviewed to support the conceptual
+framework and to validate and contextualize the primary findings.
+14.9 Source of data
+The data for this research on the impact of AI-driven strategic risk management on risk
+management effectiveness in hybrid project environments were collected from both primary
+and secondary sources to ensure a comprehensive and multidimensional understanding of risk
+management practices from both empirical and theoretical practices.
+37
+
+=== PAGE 38 ===
+14.9.1 Primary source:
+The primary data for this research were gathered via structured questionnaires, surveys, and
+Google Forms.
+Structured questionnaires:
+Structured questionnaires were designed to systematically collect information on respondents’
+perceptions of AI-driven strategic risk management practices in hybrid project environments.
+The questionnaire covered key dimensions such as risk process alignment between Agile and
+Waterfall methodologies, risk visibility integration, timely risk escalation, governance
+consistency, AI-driven risk analytics capability, and overall risk management effectiveness. A
+five-point Likert scale was employed to ensure objective and quantitatively reliable
+measurement of respondents’ perceptions. This structured approach enabled consistent
+assessment of AI-enabled risk management practices and their effectiveness in identifying,
+assessing, monitoring, and mitigating risks in hybrid projects
+Surveys:
+The survey targeted professionals involved in hybrid project environments, including project
+managers, risk managers, Agile practitioners, PMO professionals, and IT specialists. Data were
+collected using both online and offline methods to ensure adequate inclusion of respondents
+across different industries, organizational sizes, experience levels, and geographical regions
+within India. The survey design enabled comparative analysis across professional roles and
+levels of exposure to AI-enabled tools, allowing the study to examine variations in perceptions
+and implementation of AI-driven risk management practices in hybrid projects.
+Google forms:
+Google Forms was used to distribute the surveys and questionnaires in order to increase reach
+and guarantee effective data collecting. The use of digital data collection facilitated
+convenience and anonymity for respondents, thereby encouraging honest and unbiased
+responses regarding organizational risk management practices and AI adoption. To address
+potential limitations related to digital accessibility, offline methods, including paper-based
+questionnaires and direct interactions within organizations, were also employed to ensure
+inclusiveness and balanced representation of the study population.
+38
+
+=== PAGE 39 ===
+14.9.2 Secondary Data
+Secondary data were collected from peer-reviewed journals, conference proceedings, industry
+reports, project management standards, government publications, and professional body
+reports related to project management, risk management, hybrid project methodologies, and
+artificial intelligence adoption. These sources were used to support the conceptual framework,
+develop measurement constructs, and validate the findings derived from primary data.
+Secondary data also helped contextualize the study results by providing theoretical and
+empirical insights into risk management effectiveness, AI-enabled decision-making, and
+governance practices in hybrid project environments, thereby strengthening the overall analysis
+and interpretation of results.
+14.10Sampling Technique
+The random sample approach was chosen in this study since it was the most efficient way to
+choose research participants. Every member of a population has an equal chance of being
+chosen for the study, according to the random sampling principle. As a result, we are certain
+that our results will be impartial and generalisable. This process eliminates any systematic
+preferences or tendencies since each person or component is chosen at random. The external
+validity of study findings is improved by the widespread use of random sampling, which offers
+an objective and equitable representation of a population. After dividing the population into
+these pertinent strata, it's easy to create a representative and balanced sample by selecting
+individuals at random from the organisations.
+39
+P = 1 − ( N − 1
+N
+) ( N − 2
+N
+) . .. ..  N − n
+N − ( n − 1 )
+
+14.11Inclusion and exclusion Criteria
+Inclusion
+• Professionals working in hybrid project environments that integrate Agile and Waterfall
+methodologies.
+• Individuals aged 18 years and above with active involvement in project or risk
+management activities.
+• Respondents with a minimum of one year of experience in hybrid project environments
+to ensure sufficient exposure to risk management practices.
+
+=== PAGE 40 ===
+• Professionals representing diverse educational backgrounds, industries, organizational
+sizes, experience levels, and project roles, including project managers, risk managers,
+PMO professionals, Agile practitioners, and IT professionals.
+• Participants who, upon informed consent, voluntarily agreed to participate in the study.
+Exclusion
+• Individuals not involved in hybrid project environments or those working exclusively
+in pure Agile or pure Waterfall settings.
+• Respondents with less than one year of experience in hybrid project or risk management
+roles, as limited exposure may affect the accuracy of responses.
+• Incomplete, inconsistent, or invalid questionnaire responses that could compromise
+data reliability.
+• Individuals who were unable to provide informed consent or who declined to participate
+in the study.
+14.12Measures
+Data has been gathered with the help of a structured questionnaire. Questionnaire has been
+prepared using 5 Likert-scale (Strongly disagree to strongly agree) where respondents will be
+asked to share their opinions regarding various research questions under study. The
+Questionnaire included only closed ended items. Questions have been carefully crafted so as
+to gather meaningful information with respect to identified research variables. The details of
+the variables used for the analysis are presented below.
+Variables
+Risk Process Alignment
+Risk process alignment refers to the degree to which risk management processes are
+consistently structured and integrated across different project methodologies (such as Agile
+and Waterfall). It involves aligning risk identification, assessment, response planning,
+implementation, and monitoring processes so they work coherently across hybrid project
+environments, enabling smoother coordination and decision-making.
+Risk Visibility Integration
+Risk visibility integration is the extent to which risk information is consolidated, shared, and
+accessible across stakeholders and project layers, enabling continuous awareness of risk
+40
+
+=== PAGE 41 ===
+exposures and facilitating timely decision-making. It includes transparent documentation,
+dashboards, and communication channels that integrate risk data between teams, tools, and
+governance structures (Schön et al., 2020).
+Timely Risk Escalation
+Timely risk escalation refers to the prompt reporting and escalation of risk events or triggers to
+appropriate decision-making levels when risks exceed predefined thresholds or require
+strategic intervention. This ensures that critical risks are addressed before they evolve into
+significant issues impacting objectives.
+Governance Consistency
+Governance consistency denotes the uniform application of risk governance structures,
+policies, roles, and decision-rights across project teams and organizational units. It includes
+consistent oversight mechanisms, reporting lines, and accountability for risk activities to ensure
+strategic alignment and compliance with organizational risk frameworks.
+AI-Driven Risk Analytics Capability
+AI-driven risk analytics capability refers to the organizational ability to apply artificial
+intelligence, machine learning, and advanced analytics methods to detect, analyse, predict, and
+visualize risk patterns from structured and unstructured data. This capability enhances
+predictive insight into future risks, automates risk detection, supports prioritization, and
+provides actionable recommendations.
+Risk Management Effectiveness in Hybrid Projects
+Risk management effectiveness in hybrid projects refers to the degree to which risk
+management practices successfully achieve desired outcomes minimizing negative impacts on
+project objectives (scope, cost, time, quality) while enabling opportunities through systematic
+identification, evaluation, response, monitoring, and control of risks within hybrid project
+environments (combined Agile and Waterfall).
+14.13Tools and techniques
+Tools:
+In this study SPSS (Statistical package for the social sciences) and AMOS tools are utilized.
+Techniques:
+41
+
+=== PAGE 42 ===
+Measurement model and validity
+Measurement models and validity are essential to research because they give a systematic
+framework for ensuring that findings are accurate and meaningful. Measurement models let
+academics evaluate complicated ideas by clearly showing the connections between observable
+facts and the ideas that underlie them. On the other hand, validity guarantees that the tools
+employed for measurement accurately capture the desired structures, which protects against
+findings that are incorrect or misleading. Measurement models and validity are both important
+parts of research. They provide the basis for results that are credible and trustworthy, which are
+necessary for making informed decisions and increasing knowledge in a variety of fields.
+FACTOR ANALYSIS
+KMO and Bartlett's Test
+The Kaiser-Meyer-Olkin (KMO) Test gauges how well your data fits into the Factor Analysis
+framework. The test evaluates sampling adequacy for the whole model as well as for each of
+the variables. The percentage of variation among variables that may represent common
+variance is measured by the statistic. Your data is better suited for factor analysis if the
+percentage is smaller.
+KMO gives values in the range of 0 and 1. A general guideline for deciphering the statistic:
+• KMO values in the range of 0.8 and 1 show that the sampling is sufficient.
+• KMO values below 0.6 suggest that corrective action is necessary since the sample is
+insufficient. Use your own discretion for values between 0.5 and 0.6, since some writers
+have set this value at 0.5.
+• Large partial correlations relative to the total of correlations are indicated by KMO
+values around zero. Stated differently, the prevalence of correlations poses a significant
+challenge to component analysis.
+The KMO test formula is as follows:
+42
+M O
+j
+=
+
+i
+
+r
+j
+i
+2ij
+ j
++
+r 2ij
+
+i j
+u
+• R = [r ij ] is the Correlation matrix,
+• U = [u] is the partial covariance matrix,
+
+=== PAGE 43 ===
+• Σ = summation notation (“add up”).
+The Reliability and Validity of the scale:
+Ensuring the reliability and validity of the scale is crucial in research. To guarantee that the
+results are meaningful, the reliability and validity of the scales used in this study have been
+thoroughly evaluated.
+Reliability
+Reliability refers to the consistency of a measurement. A reliable instrument consistently
+produces the same results when research is repeated under identical conditions. For example,
+if a thermometer consistently gives the same temperature reading for a liquid under identical
+conditions across multiple tests, the results are considered reliable.
+Factor loading
+The degree of correlation between an observable variable and a latent variable is indicated by
+a number called the factor loading. It usually ranges from 0 to 1, however when computing
+many variables, certain datasets may have factor loadings larger than 1. Greater relationship
+with the latent variable is indicated by higher factor loadings. For instance, the latent variable
+of anxiety has a factor loading of 0.85 for question one and 0.33 for question two, according to
+a study of survey data. Question one is likely more successful than Question 2 in identifying
+respondents who suffer from anxiety since it has a higher factor loading. This is because
+question one has a larger correlation with the latent variable than question two, according to
+the factor loading (Team, 2024).
+Cronbach’s alpha:
+The Cronbach alpha coefficient method is the most commonly used to measure the reliability
+of a study. This coefficient ranges from 0 to 1. Many studies suggest that a minimum score of
+0.6 indicates reliability, while a score above 0.7 is often regarded as high reliability. However,
+a reliability score in the range of 0.5 to 0.6 is acceptable in the early stages of basic research
+specifically at pilot study stage.
+In this research, Cronbach's alpha has been used to investigate for data reliability. It is a widely
+used tool in marketing research. A low alpha value indicates that the items do not adequately
+43
+
+=== PAGE 44 ===
+capture the construct, while a high alpha value suggests that the research variables are well-
+correlated.
+Average Variance Extracted
+Many research has used the criteria for evaluating convergent validity in addition to looking at
+the standardized factor loadings. said that when a latent concept explains at least half of the
+variation in the indicators it is related with, convergent validity has been proven. They
+suggested representing the average amount of variation explained by a construct in its
+indicators in relation to the total variance of its indicators using the average variance extracted
+(AVE) (Cheung et al., 2024). Average variance extracted (AVE) value greater than 0.5
+A higher value implies a better degree of reliability; AVE greater than or equal to 0.5 validates
+convergent validity; the average variance extracted is calculated by dividing the sum of squared
+loadings. AVE and CR have values between 0 and 1.
+Composite Reliability (CR)
+The internal consistency of scale items is measured by composite reliability. Composite
+reliability is defined as a measure of the observed variables' shared variance that is used as a
+latent construct indicator. Each construct's CR may be found by dividing the sum of squares of
+fully standardized factor loadings (Shrestha, 2021).
+The lack of multicollinearity is shown by the correlation matrix being greater than 0.00001. It
+would be crucial to look for variable pairs with correlation coefficients of r > 0.8 and think
+about excluding them from the study if the determinant value is less than 0.00001. The
+threshold for item removal should be lowered until this criterion is met since a lower score may
+suggest that groups of three or more questions or statements have substantial inter-correlations.
+Validity
+Validity pertains to the accuracy of a measurement, indicating how well the results align with
+what they are intended to measure. In essence, it reflects the extent to which a measure truly
+represents the concept under consideration. In this research, Content Validity was assessed to
+ensure the validity of the questionnaire. Feedback from Subject Matter Experts was gathered
+to evaluate the appropriateness and accuracy of the measurement tool, often referred to as face
+validity. The scales used in this research were sourced from well-established studies, ensuring
+their content validity. Inputs were also sought from the research supervisor and Scrutiny
+44
+
+=== PAGE 45 ===
+Committee Members to ensure the questionnaire's completeness and accuracy. The validity was
+further reinforced by incorporating their feedback into the measurement tool. Additionally, the
+questionnaire was pre-tested with a sample group, and necessary adjustments were made based
+on the feedback received.
+Discriminant Validity test
+This validity shows that there are no superfluous items in the measurement model of a
+construct. By using a discrepancy measure known as Modification Indices (MI), AMOS was
+able to determine which items in the model were redundant. A high MI value suggests that the
+corresponding items are unnecessary. The measurement model could be run after the researcher
+removes one of the identified items. The redundant pair could also be constrained by the
+researcher using a "free parameter estimate." A further prerequisite for discriminant validity is
+that there should be no more than 0.85 correlation between exogenous constructs. When the
+correlation value is greater than 0.85, it means that there is a significant multicollinearity issue
+or that the two exogenous constructs are redundant (Awang, 2014).
+Model fit summary
+Model fitness aids in analyzing the mode's effectiveness. The foundation of this stage is
+evaluating the model's fitness using the model fit indices Chi-square value(χ2), Degrees of
+freedom (df), CMIN/Df, P value, GFI, RFI, NFI, CFI, IFI, RMR and RMSEA. All model
+indices' acceptability ranges are shown in the tables below. The model fitness of the variables
+is established based on the acceptance level.
+A thorough assessment of the structural equation model's goodness-of-fit is given by the model
+fit indices. Important indices like the Goodness of Fit Index (GFI), Relative Fit Index (RFI),
+Normed Fit Index (NFI), Incremental Fit Index (IFI), and Comparative Fit Index (CFI) greater
+than or equal to 0.90 are indicators of an acceptable fit, as is a Chi-square value (χ²) relative to
+degrees of freedom (CMIN/DF) of less than 3.00 and a p-value below 0.05. A suitable and well-
+fitting model for the data is also indicated by the Root Mean Square Residual (RMR) being
+less than or equal to 0.05 and the Root Mean Square Error of Approximation (RMSEA) being
+less than or equal to 0.08.
+Confirmatory Factor Analysis (CFA):
+Confirmatory component Analysis (CFA) is an advanced statistical method used to validate the
+component structure of a collection of observed data. It enables researchers to evaluate the
+45
+
+=== PAGE 46 ===
+hypothesis that a correlation between observable variables and their underlying latent
+constructs is present. Confirmatory Factor Analysis (CFA) contrasts with Exploratory Factor
+Analysis (EFA), since the former tests a predetermined structure of the data rather than
+discovering it.
+The main objective of CFA is to ascertain the extent to which the data aligns with a proposed
+measuring model derived from theoretical frameworks or previous studies. This entails many
+essential steps:
+• Defining constructions: The method starts with the precise delineation of the theoretical
+constructions. At this point, researchers often pretest the elements of the construct to
+assess their clarity and confirm their appropriate representation of the notion.
+• Formulating the Measurement Model: In Confirmatory component Analysis (CFA),
+researchers define the principle of one-dimensionality, whereby many observed
+variables exclusively assess a singular component or construct. Generally, an effective
+approach entails possessing a minimum of three things for each build.
+• Defining the Model: Researchers must delineate the number of factors and the
+configuration of loadings (which variables correspond to which components). This
+specification is based on theoretical anticipations or outcomes from prior research.
+• Evaluating Model Fit: The validity of the measurement model is determined by
+juxtaposing the theoretical model with the empirical data. This entails analyzing factor
+loadings (with a typical threshold of 0.7 or above for sufficient loadings) and fit indices
+like Chi-square, Root Mean Square Error of Approximation (RMSEA), Goodness of
+Fit Index (GFI), and Comparative Fit Index (CFI).
+Hypothesis test
+SEM (structural equational modelling)
+Structural equation modelling (SEM) is a versatile statistical tool that is used to describe
+complex connections between variables, regardless of whether such interactions are obvious or
+latent. It offers a variety of unique qualities, including as the ability to analyse complicated
+causal pathways, integrate latent components, test numerous hypotheses at the same time, take
+measurement error into account, evaluate model fit, and combine aspects of factor analysis and
+regression. Structural equation modelling (SEM) is a valuable research tool that may be used
+in a variety of subjects, including sociology, economics, and psychology. It is useful for
+46
+
+=== PAGE 47 ===
+evaluating theoretical models, investigating the implications of interventions or policies, and
+simplifying difficult datasets. This allows for a more thorough and precise analysis of the data,
+as well as the testing of our hypothesis.
+14.14Summary
+This chapter has outlined the research methodology that was adopted for analysing the impact
+of AI-driven strategic risk management on risk management effectiveness in hybrid project
+environments. A quantitative approach was adopted, using a cross-sectional survey conducted
+on 384 professionals including project managers, risk managers, PMO professionals, and Agile
+practitioners. Data were collected primarily through structured questionnaires distributed via
+online forms such as Google Forms, with some offline methods to ensure wider participation.
+The sampling was random and included respondents from diverse industries, roles, and
+experience levels to reduce bias. Measurements were taken using five-point Likert scales, and
+secondary data from academic journals, industry reports, and professional publications were
+also used to support the research. Data analysis was performed using SPSS and AMOS,
+including factor analysis, reliability and validity tests, and SEM to evaluate relationships
+between key variables such as risk process alignment, risk visibility integration, timely risk
+escalation, governance consistency, and AI-driven risk analytics capability.
+15 CHAPTER-4
+16 Results
+16.1 Demographics
+Table 2 Demographic Variables
+Variable Category Frequency Percent (%)
+Male 177 46.1
+Gender Female 207 53.9
+Total 384 100
+20–25 Years 68 17.7
+26–35 Years 87 22.7
+Age 36–45 Years 75 19.5
+46–55 Years 60 15.6
+Above 56 Years 94 24.5
+47
+
+=== PAGE 48 ===
+Total 384 100
+Diploma 97 25.3
+Bachelor’s Degree 96 25
+Educational Master’s Degree 85 22.1
+Qualification
+Professional Certification 106 27.6
+Total 384 100
+Less than 5 years 86 22.4
+5–10 years 116 30.2
+Project
+Management 11–15 years 89 23.2
+Experience
+More than 15 years 93 24.2
+Total 384 100
+Project Manager 86 22.4
+Program/Portfolio Manager 73 19
+Current Role in
+Risk Manager 70 18.2
+Project
+Business Analyst 82 21.4
+Environment
+Team Lead / Scrum Master 73 19
+Total 384 100
+Agile 124 32.3
+Primary Project
+Waterfall 136 35.4
+Methodology
+Hybrid (Agile + Waterfall) 124 32.3
+Experience
+Total 384 100
+Not Used 136 35.4
+Extent of AI
+Limited Use 123 32
+Usage in Project
+Moderate Use 125 32.6
+Risk Management
+Total 384 100
+Gender
+The gender distribution indicates a relatively balanced sample, with 177 male respondents
+(46.1%) and 207 female respondents (53.9%). The near-equitable representation enhances the
+inclusiveness of the study and minimizes potential gender-related bias in perceptions regarding
+AI-driven strategic risk management practices. This balance strengthens the generalizability of
+findings across diverse project environments.
+48
+
+=== PAGE 49 ===
+Age Group
+In terms of age distribution, the sample reflects a broad spectrum of professional maturity.
+Respondents aged 26–35 years constitute 22.7%, followed by 36–45 years (19.5%), 20–25
+years (17.7%), 46–55 years (15.6%), and above 56 years (24.5%). Notably, a substantial
+proportion of respondents fall within mid-career and senior age brackets, indicating that the
+study captures insights from both emerging professionals and highly experienced project
+practitioners. This diversity enhances the credibility of responses related to governance
+consistency and AI-enabled risk analytics capability.
+Educational Qualification
+The educational profile reflects a well-qualified respondent base. Professional certifications
+represent the largest category (27.6%), followed by Diploma holders (25.3%), Bachelor’s
+49
+
+=== PAGE 50 ===
+degree holders (25.0%), and Master’s degree holders (22.1%). The distribution indicates that
+respondents possess both academic knowledge and professional specialization relevant to
+project management and AI adoption. The presence of professionally certified participants
+particularly strengthens the reliability of responses concerning strategic risk alignment and AI
+implementation practices.
+Current Role in Project Environment
+With respect to professional roles, Project Managers constitute 22.4% of the sample, followed
+by Business Analysts (21.4%), Program/Portfolio Managers (19.0%), Team Leads/Scrum
+Masters (19.0%), and Risk Managers (18.2%). This balanced distribution ensures
+representation from both strategic leadership positions and operational management roles. The
+presence of senior project and portfolio managers enhances the validity of responses regarding
+governance structures, while Scrum Masters and Business Analysts contribute operational-
+level insights into risk process alignment and visibility integration.
+50
+
+=== PAGE 51 ===
+Years of Project Management Experience
+The experience distribution demonstrates strong professional maturity within the sample.
+Respondents with 5–10 years of experience represent the largest group (30.2%), followed by
+those with more than 15 years (24.2%), 11–15 years (23.2%), and less than 5 years (22.4%).
+Overall, more than 77% of respondents possess over five years of project management
+experience, indicating that the findings are predominantly informed by professionals with
+substantial exposure to hybrid project environments and risk governance practices.
+2
+.0
+3
+2
+4
+.2
+2 .3
+2
+.4
+2
+2
+LESS THAN 5 5–10 YEARS 11–15 YEARS MORE THAN
+YEARS 15 YEARS
+PROJECT MANAGEMENT EXPERIENCE
+Primary Project Methodology Experience
+Regarding methodology exposure, 35.4% of respondents report primary experience in
+Waterfall projects, while 32.3% report Agile experience and an equal 32.3% indicate Hybrid
+(Agile + Waterfall) experience. The relatively even distribution across methodologies is
+51
+
+=== PAGE 52 ===
+particularly relevant to this study, as it ensures that insights are derived from professionals
+familiar with structured, adaptive, and integrated project environments
+4
+.5
+3
+3 3
+.2 .2
+3 3
+AGILE WATERFALL HYBRID (AGILE +
+WATERFALL)
+PRIMARY PROJECT METHODOLOGY EXPERIENCE
+.
+Extent of AI Usage in Project Risk Management
+In terms of AI usage, 35.4% of respondents report that AI is not currently used in project risk
+management within their organizations. Meanwhile, 32.0% report limited use, and 32.6%
+report moderate use. This distribution indicates that while AI adoption is progressing, it is not
+yet universally mature across organizations. The presence of varying levels of AI
+implementation strengthens the study by capturing perspectives from both early-stage adopters
+and more advanced users of AI-driven risk analytics.
+4
+.5
+3
+6
+.2
+3
+2
+3
+NOT USED LIMITED USE MODERATE USE
+EXTENT OF AI USAGE IN PROJECT RISK
+MANAGEMENT
+Table 3 Descriptive Statistics of Study Variables
+Variables N Mean Skewness Kurtosis
+risk process alignment 384 3.6073 -0.84 0.815
+Risk visibility integration 384 3.5500 -0.753 0.278
+52
+
+=== PAGE 53 ===
+Timely risk escalation 384 3.6646 -0.948 0.768
+Governance consistency 384 3.6962 -0.807 0.802
+AI driven risk analytics capability 384 3.6703 -0.826 0.635
+risk management effectiveness in hybrid project 384 3.4573 -0.425 0.389
+The descriptive statistics presented in Table 3 summarize the central tendency and
+distributional characteristics of the key study variables based on a sample of 384 respondents.
+Overall, the mean values indicate a moderately high level of agreement across all constructs,
+suggesting that respondents generally perceive risk management practices and AI-enabled
+capabilities to be present to a reasonable extent within hybrid project environments.
+Governance consistency (Mean = 3.6962) and AI-driven risk analytics capability (Mean =
+3.6703) exhibit the highest mean scores among the variables, indicating that respondents
+perceive governance structures and AI-enabled analytical support as relatively well established
+in their project contexts. Timely risk escalation (Mean = 3.6646) and risk process alignment
+(Mean = 3.6073) also show comparatively high mean values, reflecting positive perceptions of
+coordination and responsiveness in managing project risks. Risk visibility integration (Mean =
+3.5500) demonstrates a slightly lower mean, suggesting that while risk information is generally
+accessible, there may still be challenges related to full transparency or integration across hybrid
+project structures. Risk management effectiveness in hybrid projects records the lowest mean
+value (Mean = 3.4573), indicating that although governance mechanisms and capabilities are
+present, their translation into consistently effective risk outcomes may be uneven.
+The skewness values for all variables are negative, ranging from −0.425 to −0.948, indicating
+a left-skewed distribution. This suggests that responses are clustered toward the higher end of
+the Likert scale, with relatively fewer low ratings. Such a pattern is common in organizational
+perception studies and reflects generally favorable respondent evaluations of risk management
+practices and AI capabilities. Importantly, none of the skewness values exceed the commonly
+accepted threshold of ±2, indicating no severe departure from normality.
+Similarly, the kurtosis values range between 0.278 and 0.815, all well within acceptable limits
+(±3), suggesting that the distributions do not exhibit excessive peakedness or flatness. This
+indicates that the data approximate a normal distribution and are suitable for subsequent
+multivariate analysis, including structural equation modeling.
+Overall, the descriptive statistics confirm that the dataset demonstrates acceptable
+distributional properties and that respondents report relatively positive perceptions of
+53
+
+=== PAGE 54 ===
+governance consistency, process alignment, and AI-driven risk analytics within hybrid projects.
+These findings provide a sound empirical basis for proceeding with confirmatory factor
+analysis and hypothesis testing using SEM.
+3.6962
+3.6703
+3.6073
+3.5823
+3.4797
+3.4573
+RISK PROCESS RISK VISIBILITY TIMELY RISK GOVERNANCE AI-DRIVEN RISK RISK
+ALIGNMENT INTEGRATION ESCALATION CONSISTENCY ANALYTICS MANAGEMENT
+CAPABILITY EFFECTIVENESS
+IN HYBRID
+PROJECTS
+Figure 2 Descriptive Statistics of Study Variables
+1.1 Measurement Model and Validity
+Measurement models and validity are indispensable in research as they establish a structured
+framework for ensuring the accuracy and meaningfulness of data. Measurement models clarify
+the relationships between observed variables and their underlying constructs, enabling
+researchers to assess complex concepts. Validity, on the other hand, ensures that the
+measurement instruments precisely capture the intended constructs, safeguarding against
+misleading or incorrect conclusions. Both measurement models and validity are essential
+components in research, serving as the foundation for reliable and credible findings, which is
+paramount for informed decision-making and advancing knowledge across diverse field.
+54
+
+=== PAGE 55 ===
+Table 4 Factor Loadings from Confirmatory Factor Analysis (CFA)
+Standardize
+Path S.E. C.R. P
+d Estimate
+<--
+RPA5 Risk process alignment 0.747
+-
+<-- Risk process alignment
+RPA4 0.794 0.06 16.668 ***
+-
+55
+
+=== PAGE 56 ===
+<-- Risk process alignment
+RPA3 0.733 0.069 13.628 ***
+-
+<-- Risk process alignment
+RPA2 0.794 0.064 14.89 ***
+-
+<-- Risk process alignment
+RPA1 0.738 0.078 13.72 ***
+-
+<--
+GC5 Governance consistency 0.839
+-
+<-- Governance consistency
+GC4 0.739 0.052 16.383 ***
+-
+<-- Governance consistency
+GC3 0.794 0.054 18.179 ***
+-
+<-- Governance consistency
+GC2 0.822 0.052 19.111 ***
+-
+<-- Governance consistency
+GC1 0.78 0.055 17.712 ***
+-
+<--
+TRE5 Timely Risk Escalation 0.814
+-
+<-- Timely Risk Escalation
+TRE4 0.834 0.056 18.866 ***
+-
+<-- Timely Risk Escalation
+TRE3 0.86 0.063 19.685 ***
+-
+<-- Timely Risk Escalation
+TRE2 0.804 0.059 17.933 ***
+-
+<-- Timely Risk Escalation
+TRE1 0.81 0.057 18.104 ***
+-
+56
+
+=== PAGE 57 ===
+<--
+GC6 Governance consistency 0.565 0.06 11.613 ***
+-
+<-- AI Driven Risk Analytics
+ADRAC1 0.776
+- Capability
+<-- AI Driven Risk Analytics
+ADRAC2 0.808 0.064 16.66 ***
+- Capability
+<-- AI Driven Risk Analytics
+ADRAC3 0.72 0.065 14.537 ***
+- Capability
+<-- AI Driven Risk Analytics
+ADRAC4 0.791 0.062 16.247 ***
+- Capability
+<-- AI Driven Risk Analytics
+ADRAC5 0.842 0.063 17.479 ***
+- Capability
+Risk Management
+<--
+RMEHP1 Effectiveness In Hybrid 0.776
+-
+Project
+Risk Management
+<--
+RMEHP2 Effectiveness In Hybrid 0.685 0.063 13.225 ***
+-
+Project
+Risk Management
+<--
+RMEHP3 Effectiveness In Hybrid 0.688 0.06 13.301 ***
+-
+Project
+Risk Management
+<--
+RMEHP4 Effectiveness In Hybrid 0.756 0.062 14.729 ***
+-
+Project
+Risk Management
+<--
+RMEHP5 Effectiveness In Hybrid 0.809 0.063 15.809 ***
+-
+Project
+57
+
+=== PAGE 58 ===
+<--
+RVI5 Risk Visibility Integration 0.844
+-
+<-- Risk Visibility Integration
+RVI4 0.849 0.052 20.494 ***
+-
+<-- Risk Visibility Integration
+RVI3 0.823 0.049 19.5 ***
+-
+<-- Risk Visibility Integration
+RVI2 0.884 0.049 21.806 ***
+-
+<-- Risk Visibility Integration
+RVI1 0.657 0.059 15.329 ***
+-
+Table 5 KMO and Bartlett's Test
+KMO and Bartlett's Test
+Kaiser-Meyer-Olkin Measure of Sampling Adequacy. .927
+Bartlett's Test of Sphericity Approx. Chi-Square 7618.445
+df 465
+Sig. .000
+KMO and Bartlett's tests to assess the suitability for factor analysis. The obtained KMO value
+was 0.927, indicating high sampling adequacy, and the Bartlett's test was highly significant (P
+= 0.00), supporting the factor analysis.
+Table 6 Convergent Validity Assessment (AVE and Composite Reliability)
+Variables AVE CR
+58
+
+=== PAGE 59 ===
+Risk process alignment 0.761 0.858
+Risk Visibility Integration 0.811 0.873
+Timely Risk Escalation 0.824 0.877
+Governance consistency 0.757 0.880
+AI Driven Risk Analytics
+0.787 0.866
+Capability
+Risk Management Effectiveness in
+0.743 0.852
+Hybrid Project
+16.2 Discriminant Validity
+Discriminant validity is not a specific test performed in SPSS or any other statistical software
+but a concept within the context of validating measurement instruments and assessing the
+relationships between variables. Discriminant validity is crucial to ensure that different
+constructs or variables in a study are truly distinct and not measuring the same underlying
+concept. Researchers use various techniques such as confirmatory factor analysis (CFA) or
+correlation analysis to demonstrate that the measures intended to assess different constructs
+are, indeed, different and not highly correlated. Discriminant validity helps ensure that the
+measurement instruments accurately represent the unique concepts they are meant to measure,
+preventing construct overlap or redundancy and allowing for more robust and accurate data
+analysis and interpretation.
+Table 7 Discriminant Validity Matrix (Fornell-Larcker Criterion)
+Risk
+AI Driven
+Risk Risk Timely Management
+Governance Risk
+process Visibility Risk Effectiveness
+consistency Analytics
+alignment Integration Escalation in Hybrid
+Capability
+Project
+Risk process
+0.872
+alignment
+59
+
+=== PAGE 60 ===
+Risk Visibility
+-0.001 0.900
+Integration
+Timely Risk
+0.006 .629** 0.908
+Escalation
+Governance
+.671** 0.027 0.030 0.870
+consistency
+AI Driven
+Risk Analytics .633** 0.041 0.047 .602** 0.887
+Capability
+Risk
+Management
+Effectiveness .404** 0.098 .122* .368** .405** 0.861
+in Hybrid
+Project
+Model Fit Summary
+Table 8 Overall Model Fit Indices for Measurement Model
+Variable Value
+Chi-square value(χ2) 661.788
+Degrees of freedom (df) 416
+CMIN/DF 1.591
+P value 0
+GFI 0.901
+RFI 0.906
+NFI 0.916
+IFI 0.967
+CFI 0.967
+RMR 0.39
+RMSEA 0.39
+60
+
+=== PAGE 61 ===
+16.3 SEM (Structural Equational Modelling)
+Structural Equation Modelling (SEM), a flexible statistical approach, to describe complex
+interactions between variables, whether latent or observable. Its ability to analyse intricate
+causal pathways, integrate latent components, test several hypotheses at once, account for
+measurement error, evaluate model fit, and combine aspects of factor analysis and regression
+are just a few of its special features. SEM is an essential tool for research in disciplines like
+psychology, sociology, economics, and beyond because it can be used to validate theoretical
+models, examine the effects of interventions or policies, and simplify complex datasets. This
+allows for more thorough and accurate data analysis and hypothesis testing.
+16.4 Proposed Hypothesis
+Hypothesis 1
+H1: Risk Process Alignment has a significant positive impact on Risk Management
+Effectiveness in Hybrid Project Environments.
+To examine Hypothesis 1, Structural Equation Modelling (SEM) was conducted using AMOS
+to assess the direct relationship between Risk Process Alignment and Risk Management
+Effectiveness in Hybrid Projects. The results presented in Table 2 (Regression Weights:
+Group number 1 – Default model) indicate that Risk Process Alignment has a statistically
+significant and positive effect on Risk Management Effectiveness (Standardized Estimate =
+0.464, S.E. = 0.069, C.R. = 7.346, p < 0.001). The standardized coefficient of 0.464 reflects a
+moderate and meaningful positive relationship, suggesting that improved alignment of risk
+management processes across Agile and Waterfall methodologies substantially enhances
+overall risk management effectiveness in hybrid project environments. The critical ratio (C.R.
+= 7.346), which exceeds the threshold of 1.96, further confirms the statistical significance of
+the relationship. Therefore, the null hypothesis (H01) is rejected, and Hypothesis 1 is
+supported.
+61
+
+=== PAGE 62 ===
+Table 9 Regression Weights: (Group number 1 - Default model)
+Standardized
+Path S.E. C.R. P
+Estimate
+Risk
+Management
+Effectiveness <--- Risk process alignment 0.464 0.069 7.346 ***
+in Hybrid
+Project
+RPA1 <--- Risk process alignment 0.676
+RPA2 <--- Risk process alignment 0.726 0.063 15.892 ***
+RPA3 <--- Risk process alignment 0.783 0.084 13.137 ***
+RPA4 <--- Risk process alignment 0.84 0.08 13.792 ***
+RPA5 <--- Risk process alignment 0.781 0.095 13.104 ***
+Risk Management
+RMEHP1 <--- Effectiveness in Hybrid 0.773
+Project
+Risk Management
+RMEHP2 <--- Effectiveness in Hybrid 0.684 0.064 13.158 ***
+Project
+Risk Management
+RMEHP3 <--- Effectiveness in Hybrid 0.684 0.061 13.144 ***
+Project
+Risk Management
+RMEHP4 <--- Effectiveness in Hybrid 0.76 0.062 14.726 ***
+Project
+Risk Management
+RMEHP5 <--- Effectiveness in Hybrid 0.812 0.063 15.744 ***
+Project
+In addition to the structural relationship, the measurement properties of the constructs were
+also examined. As shown in Table 2, the factor loadings for the Risk Process Alignment
+indicators (RPA1–RPA5) range from 0.676 to 0.840, all exceeding the recommended minimum
+62
+
+=== PAGE 63 ===
+threshold of 0.60, thereby confirming satisfactory indicator reliability and construct
+representation. Similarly, the factor loadings for Risk Management Effectiveness in Hybrid
+Projects (RMEHP1–RMEHP5) range from 0.684 to 0.812, demonstrating strong convergence
+of observed variables on their respective latent construct. These loadings indicate that the
+measurement model adequately captures the underlying theoretical dimensions of both
+constructs, supporting convergent validity.
+Table 10 Model Fit Summary
+Fit Index Value
+Chi-square (χ²) 78.092
+Degrees of Freedom (df) 33
+CMIN/DF 2.366
+P-value 0.000
+GFI 0.958
+RMR 0.027
+NFI 0.959
+RFI 0.945
+IFI 0.976
+CFI 0.976
+RMSEA 0.060
+The overall goodness-of-fit statistics for the structural model are presented in Table 3 (Model
+Fit Summary). The Chi-square value (χ² = 78.092) with 33 degrees of freedom yields a
+CMIN/DF ratio of 2.366, which falls within the acceptable range of less than 3.00, indicating
+an adequate model fit. Although the p-value is significant (p = 0.000), this outcome is common
+in large samples and does not necessarily indicate poor fit. Additional fit indices further confirm
+model adequacy: GFI = 0.958, NFI = 0.959, IFI = 0.976, and CFI = 0.976, all exceeding the
+recommended threshold of 0.90. The RMSEA value of 0.060 is below the acceptable upper
+limit of 0.08, and the RMR value of 0.027 is within acceptable standards, indicating minimal
+63
+
+=== PAGE 64 ===
+residual error. Collectively, these indices demonstrate that the proposed structural model
+provides a good representation of the observed data.
+The findings therefore indicate that when risk identification, assessment, monitoring, and
+response processes are systematically aligned across Agile and Waterfall components within
+hybrid projects, organizations experience improved coordination, reduced ambiguity, and
+enhanced responsiveness to emerging uncertainties. Risk Process Alignment ensures
+consistency in risk documentation, escalation pathways, and accountability mechanisms,
+thereby strengthening the overall effectiveness of risk governance structures. In hybrid
+environments where methodological fragmentation can create procedural gaps process
+alignment appears to function as a foundational enabler of effective risk management
+performance.
+Based on the statistical significance of the path coefficient, the strength of the standardized
+estimate, and the satisfactory model fit indices reported in Table 3, Hypothesis 1 is accepted.
+The results confirm that Risk Process Alignment is a key determinant of Risk Management
+Effectiveness in Hybrid Project Environments.
+Hypothesis 2
+H2: Risk Visibility Integration has a significant positive impact on Risk Management
+Effectiveness in Hybrid Project Environments.
+Table 11 Regression Weights: (Group number 1 - Default model)
+Standardized
+Path S.E. C.R. P
+Estimate
+Risk Management
+Risk visibility
+Effectiveness In <--- 0.121 0.059 2.116 0.034
+integration
+Hybrid Project
+Risk visibility
+RVI5 <--- 0.843
+integration
+Risk visibility
+RVI4 <--- 0.847 0.053 20.221 ***
+integration
+64
+
+=== PAGE 65 ===
+Risk visibility
+RVI3 <--- 0.825 0.049 19.43 ***
+integration
+Risk visibility
+RVI2 <--- 0.887 0.05 21.632 ***
+integration
+Risk visibility
+RVI1 <--- 0.65 0.06 15.143 ***
+integration
+Risk Management
+RMEHP1 <--- Effectiveness In 0.779
+Hybrid Project
+Risk Management
+RMEHP2 <--- Effectiveness In 0.689 0.063 13.278 ***
+Hybrid Project
+Risk Management
+RMEHP3 <--- Effectiveness In 0.669 0.06 12.853 ***
+Hybrid Project
+Risk Management
+RMEHP4 <--- Effectiveness In 0.759 0.062 14.753 ***
+Hybrid Project
+Risk Management
+RMEHP5 <--- Effectiveness In 0.814 0.063 15.815 ***
+Hybrid Project
+Table 11 presents the standardized regression weights obtained from the Structural Equation
+Modelling (SEM) analysis examining the relationship between Risk Visibility Integration and
+Risk Management Effectiveness in Hybrid Projects, along with the measurement loadings of
+their respective indicators.
+The results indicate that Risk Visibility Integration has a positive and statistically significant
+effect on Risk Management Effectiveness in Hybrid Project Environments (β = 0.121, C.R. =
+2.116, p = 0.034). Therefore, H2 is supported. The structural path from Risk Visibility
+Integration to Risk Management Effectiveness in Hybrid Projects is positive and statistically
+significant (β = 0.121, S.E. = 0.059, C.R. = 2.116, p = 0.034). The critical ratio exceeds the
+recommended threshold of 1.96, and the p-value is below 0.05, indicating that increased
+integration of risk visibility mechanisms contributes significantly to improvements in risk
+management effectiveness in hybrid project environments. However, the magnitude of the
+standardized coefficient suggests a modest effect size, implying that Risk Visibility Integration
+exerts a supportive rather than dominant influence.
+The measurement indicators for Risk Visibility Integration (RVI1–RVI5) demonstrate strong
+standardized factor loadings, ranging from 0.650 to 0.887. All loadings exceed the minimum
+acceptable threshold of 0.60 and are statistically significant (p < 0.001), indicating that the
+observed variables reliably capture the underlying construct. Among the indicators, RVI2 and
+RVI4 exhibit the highest loadings, reflecting their strong contribution to the construct.
+65
+
+=== PAGE 66 ===
+Similarly, the indicators measuring Risk Management Effectiveness in Hybrid Projects
+(RMEHP1–RMEHP5) show satisfactory standardized loadings ranging from 0.669 to 0.814,
+with all paths achieving high statistical significance (p < 0.001). These results confirm adequate
+convergent validity and internal consistency for the dependent construct.
+Overall, the table demonstrates that both constructs are well-measured and statistically robust,
+and that Risk Visibility Integration has a significant but relatively limited direct effect on Risk
+Management Effectiveness in Hybrid Project environments. The findings suggest that while
+visibility of risk information is important, its effectiveness is likely enhanced when combined
+with complementary organizational and governance mechanisms.
+Table 12 Model Fit Summary
+Fit Index Value
+Chi-square (χ²) 45.405
+Degrees of
+33
+Freedom (df)
+CMIN/DF 1.376
+P-value 0.047
+NFI 0.978
+RFI 0.971
+IFI 0.994
+CFI 0.994
+RMSEA 0.031
+Table 12 presents the model fit indices for the structural equation model assessing the
+relationship between Risk Visibility Integration and Risk Management Effectiveness in Hybrid
+Project Environments. The Chi-square statistic is χ² = 45.405 with 33 degrees of freedom,
+resulting in a CMIN/DF ratio of 1.376, which is well below the recommended threshold of 3.00
+and indicates a good overall model fit. Although the associated p-value (0.047) is marginally
+below 0.05, this outcome is acceptable given the known sensitivity of the Chi-square statistic
+to sample size and model complexity.
+66
+
+=== PAGE 67 ===
+Additional incremental and comparative fit indices further confirm the adequacy of the model.
+The Normed Fit Index (NFI = 0.978) and Relative Fit Index (RFI = 0.971) both exceed the
+recommended cutoff value of 0.90, indicating strong comparative fit relative to the null model.
+Similarly, the Incremental Fit Index (IFI = 0.994) and Comparative Fit Index (CFI = 0.994)
+demonstrate excellent fit, approaching the ideal value of 1.00.
+The Root Mean Square Error of Approximation (RMSEA = 0.031) indicates a close
+approximate fit to the data and is well below the commonly accepted threshold of 0.08, further
+supporting the robustness of the model. Collectively, these fit indices demonstrate that the
+proposed structural model provides a very good representation of the observed data, confirming
+its suitability for hypothesis testing.
+Hypothesis 3
+H3: Timely Risk Escalation has a significant positive impact on Risk Management
+Effectiveness in Hybrid Project Environments.
+Table 13 Regression Weights: (Group number 1 - Default model)
+Standardized
+Path S.E. C.R. P
+Estimate
+Risk
+Management Timely risk
+<--- 0.129 0.129 2.283 0.022
+Effectiveness In escalation
+Hybrid Project
+Timely risk
+TRE5 <--- 0.81 0.81
+escalation
+Timely risk
+TRE4 <--- 0.832 0.832 18.558 ***
+escalation
+Timely risk
+TRE3 <--- 0.865 0.865 19.552 ***
+escalation
+Timely risk
+TRE2 <--- 0.798 0.798 17.533 ***
+escalation
+Timely risk
+TRE1 <--- 0.817 0.817 18.096 ***
+escalation
+67
+
+=== PAGE 68 ===
+Risk
+Managemen
+t
+RMEHP1 <--- 0.814 0.814
+Effectivenes
+s In Hybrid
+Project
+Risk
+Managemen
+t
+RMEHP2 <--- 0.676 0.676 13.081 ***
+Effectivenes
+s In Hybrid
+Project
+Risk
+Managemen
+t
+RMEHP3 <--- 0.663 0.663 12.813 ***
+Effectivenes
+s In Hybrid
+Project
+Risk
+Managemen
+t
+RMEHP4 <--- 0.796 0.796 14.561 ***
+Effectivenes
+s In Hybrid
+Project
+Risk
+Managemen
+t
+RMEHP5 <--- 0.795 0.795 15.335 ***
+Effectivenes
+s In Hybrid
+Project
+Table 13 reports the standardized regression weights for the structural relationship between
+Timely Risk Escalation and Risk Management Effectiveness in Hybrid Projects, along with the
+factor loadings of their respective measurement indicators.
+The structural path from Timely Risk Escalation to Risk Management Effectiveness in Hybrid
+Projects is positive and statistically significant, with a standardized coefficient of β = 0.129, a
+standard error of 0.129, a critical ratio (C.R.) of 2.283, and a p-value of 0.022. Since the critical
+ratio exceeds the threshold of 1.96 and the p-value is below 0.05, the results indicate that timely
+escalation of risks has a significant influence on improving risk management effectiveness in
+hybrid project environments. Although the effect size is modest, the positive direction suggests
+68
+
+=== PAGE 69 ===
+that proactive and prompt escalation mechanisms contribute meaningfully to effective risk
+handling.
+The measurement indicators for Timely Risk Escalation (TRE1–TRE5) demonstrate strong
+standardized factor loadings, ranging from 0.798 to 0.865. All indicators exceed the
+recommended minimum threshold of 0.60 and are statistically significant (p < 0.001),
+confirming strong convergent validity and reliability of the construct. Among these indicators,
+TRE3 exhibits the highest loading, indicating its substantial contribution to the measurement
+of timely risk escalation.
+Similarly, the indicators measuring Risk Management Effectiveness in Hybrid Projects
+(RMEHP1–RMEHP5) show satisfactory standardized loadings ranging from 0.663 to 0.814,
+with all paths achieving high statistical significance (p < 0.001). These values confirm adequate
+internal consistency and construct validity for the dependent variable.
+Overall, the results indicate that Timely Risk Escalation is a well-measured construct and a
+statistically significant predictor of Risk Management Effectiveness in hybrid project
+environments. While the direct impact is moderate, the findings underscore the importance of
+early identification and prompt escalation of risks as a key enabler of effective risk management
+practices
+Table 14 Model Fit Summary
+Fit Index Value
+Chi-square (χ²) 43.757
+Degrees of Freedom (df) 33
+CMIN/DF 1.326
+P-value 0.036
+NFI 0.979
+RFI 0.972
+IFI 0.995
+CFI 0.995
+69
+
+=== PAGE 70 ===
+RMSEA 0.029
+Table 14 presents the goodness-of-fit indices for the structural equation model examining the
+effect of Timely Risk Escalation on Risk Management Effectiveness in Hybrid Project
+Environments. The Chi-square statistic (χ² = 43.757) with 33 degrees of freedom yields a
+CMIN/DF ratio of 1.326, which is well below the recommended upper limit of 3.00, indicating
+a good overall fit between the proposed model and the observed data. Although the p-value
+(0.036) is slightly below the conventional 0.05 threshold, this result is acceptable given the
+sensitivity of the Chi-square statistic to sample size.
+The incremental and comparative fit indices further confirm the adequacy of the model. The
+Normed Fit Index (NFI = 0.979) and Relative Fit Index (RFI = 0.972) both exceed the
+recommended cutoff value of 0.90, indicating strong improvement over the null model.
+Similarly, the Incremental Fit Index (IFI = 0.995) and Comparative Fit Index (CFI = 0.995)
+demonstrate excellent model fit, approaching the ideal value of 1.00.
+The Root Mean Square Error of Approximation (RMSEA = 0.029) indicates a close
+approximate fit and is well below the commonly accepted threshold of 0.08, further supporting
+the robustness of the structural model. Collectively, these fit indices demonstrate that the
+proposed model provides a very good representation of the observed data and is suitable for
+hypothesis testing.
+Hypothesis 4
+H4: Governance Consistency has a significant positive impact on Risk Management
+Effectiveness in Hybrid Project Environments.
+70
+
+=== PAGE 71 ===
+Hypothesis 4 was tested using Structural Equation Modelling (SEM) to examine the direct
+influence of Governance Consistency on Risk Management Effectiveness in Hybrid Projects.
+The results presented in Table 7 (Regression Weights: Group number 1 – Default model)
+reveal that Governance Consistency has a statistically significant and positive effect on Risk
+Management Effectiveness (Standardized Estimate = 0.397, S.E. = 0.054, C.R. = 6.869, p <
+0.001). The standardized coefficient of 0.397 indicates a moderate and practically meaningful
+relationship, suggesting that consistent application of governance structures, policies,
+accountability mechanisms, and reporting standards significantly enhances the effectiveness of
+risk management in hybrid project environments. The critical ratio (C.R. = 6.869) substantially
+exceeds the recommended threshold of 1.96, confirming strong statistical significance.
+Accordingly, the null hypothesis (H04) is rejected, and Hypothesis 4 is supported.
+Table 15 Regression Weights: (Group number 1 - Default model)
+Estimate S.E. C.R. P
+Risk
+Management
+Effectiveness <--- Governance consistency 0.397 0.054 6.869 ***
+in Hybrid
+Project
+GC1 <--- Governance consistency 0.841
+GC2 <--- Governance consistency 0.738 0.052 16.26 ***
+GC3 <--- Governance consistency 0.054 18.04 ***
+GC4 <--- Governance consistency 0.819 0.053 18.841 ***
+GC5 <--- Governance consistency 0.791 0.055 17.908 ***
+Risk Management
+RMEHP1 <--- Effectiveness in Hybrid 0.778
+Project
+Risk Management
+RMEHP2 <--- Effectiveness in Hybrid 0.683 0.063 13.182 ***
+Project
+Risk Management
+RMEHP3 <--- Effectiveness in Hybrid 0.678 0.06 13.092 ***
+Project
+71
+
+=== PAGE 72 ===
+Risk Management
+RMEHP4 <--- Effectiveness in Hybrid 0.757 0.062 14.756 ***
+Project
+Risk Management
+RMEHP5 <--- Effectiveness in Hybrid 0.814 0.063 15.881 ***
+Project
+Risk Management
+RMEHP5 <--- Effectiveness in Hybrid 0.546 0.061 11.071 ***
+Project
+The measurement model for Governance Consistency demonstrates satisfactory reliability and
+construct validity. As shown in Table 7, the factor loadings for GC1–GC6 range from
+approximately 0.738 to 0.841, all exceeding the acceptable threshold of 0.60. These loadings
+confirm that the observed indicators adequately represent the underlying construct of
+Governance Consistency. Similarly, the factor loadings for Risk Management Effectiveness in
+Hybrid Projects (RMEHP1–RMEHP5) range from 0.678 to 0.814, indicating strong
+convergence of the measurement items on the dependent construct. The consistency of these
+loadings across indicators further reinforces the robustness of the measurement model and
+supports the structural findings.
+Table 16 Model Fit Summary
+Fit Index Value
+Chi-square (χ²) 73.809
+Degrees of Freedom
+43
+(df)
+CMIN/DF 1.716
+P-value 0.002
+NFI 0.965
+RFI 0.955
+IFI 0.985
+72
+
+=== PAGE 73 ===
+CFI 0.985
+RMSEA 0.043
+The overall model fit indices associated with Hypothesis 4 indicate an acceptable and well-
+fitting model. As reported in the fit statistics accompanying Table 7, the Chi-square value (χ²
+= 73.809) with 43 degrees of freedom yields a CMIN/DF ratio of 1.716, which is comfortably
+below the threshold of 3.00, indicating satisfactory model adequacy. Although the p-value is
+0.002, the significance of the Chi-square statistic is commonly observed in larger samples and
+does not necessarily indicate poor model fit. Additional incremental fit indices further support
+model adequacy, with NFI = 0.965, RFI = 0.955, IFI = 0.985, and CFI = 0.985, all exceeding
+the recommended benchmark of 0.90. The RMSEA value of 0.043 is well below the acceptable
+upper limit of 0.08, indicating a strong approximation fit. Collectively, these indices confirm
+that the structural model for Governance Consistency demonstrates good overall fit with the
+observed data.
+The findings highlight the strategic importance of consistent governance mechanisms in hybrid
+project settings. Hybrid environments often combine Agile flexibility with Waterfall structure,
+which can create ambiguity in authority, accountability, and decision-making processes.
+Governance Consistency ensures that risk oversight, reporting structures, escalation pathways,
+and compliance standards are uniformly applied across methodologies. This alignment reduces
+confusion, strengthens accountability, and enhances strategic risk oversight, ultimately
+improving risk management outcomes. The moderate strength of the path coefficient suggests
+that governance consistency functions as a structural backbone that stabilizes risk management
+practices across diverse project execution approaches.
+Based on the statistically significant path coefficient, acceptable model fit indices, and strong
+measurement properties reported in Table 7, Hypothesis 4 is accepted. Governance Consistency
+has a significant positive impact on Risk Management Effectiveness in Hybrid Project
+Environments.
+Hypothesis 5
+H5: AI-Driven Risk Analytics Capability has a significant positive impact on Risk
+Management Effectiveness in Hybrid Project Environments.
+73
+
+=== PAGE 74 ===
+Hypothesis 5 was tested using Structural Equation Modelling (SEM) to evaluate the direct
+influence of AI-Driven Risk Analytics Capability on Risk Management Effectiveness in Hybrid
+Projects. The regression results indicate a standardized path coefficient of 0.449 (S.E. = 0.051,
+C.R. = 7.697, p < 0.001), demonstrating a statistically significant and positive relationship
+between AI-Driven Risk Analytics Capability and Risk Management Effectiveness. The critical
+ratio (C.R. = 7.697) substantially exceeds the recommended threshold of 1.96, confirming
+strong statistical significance. The standardized estimate of 0.449 reflects a moderate-to-strong
+practical effect, indicating that enhanced AI-driven analytics capability meaningfully improves
+the effectiveness of risk management practices in hybrid project environments. Therefore, the
+null hypothesis (H05) is rejected, and Hypothesis 5 is supported.
+Table 17 SEM Results for H5: AI-Driven Risk Analytics Capability → Risk Management Effectiveness
+Estimate S.E. C.R. P
+Risk
+Management
+AI Driven Risk
+Effectiveness <--- 0.449 0.051 7.697 ***
+Analytics Capability
+in Hybrid
+Project
+AI Driven Risk
+ADRAC1 <--- 0.836
+Analytics Capability
+AI Driven Risk
+ADRAC2 <--- 0.791 0.053 17.526 ***
+Analytics Capability
+AI Driven Risk
+ADRAC3 <--- 0.732 0.056 15.794 ***
+Analytics Capability
+AI Driven Risk
+ADRAC4 <--- 0.809 0.054 18.068 ***
+Analytics Capability
+74
+
+=== PAGE 75 ===
+AI Driven Risk
+ADRAC5 <--- 0.775 0.053 17.049 ***
+Analytics Capability
+Risk Management
+RMEHP1 <--- Effectiveness in 0.774
+Hybrid Project
+Risk Management
+RMEHP2 <--- Effectiveness in 0.686 0.063 13.217 ***
+Hybrid Project
+Risk Management
+RMEHP3 <--- Effectiveness in 0.683 0.061 13.145 ***
+Hybrid Project
+Risk Management
+RMEHP4 <--- Effectiveness in 0.758 0.062 14.718 ***
+Hybrid Project
+Risk Management
+RMEHP5 <--- Effectiveness in 0.811 0.063 15.758 ***
+Hybrid Project
+The measurement properties of the AI-Driven Risk Analytics Capability construct demonstrate
+strong reliability and convergent validity. The factor loadings for ADRAC1–ADRAC5 range
+from 0.732 to 0.836, all exceeding the acceptable benchmark of 0.60, indicating that the
+indicators reliably represent the latent construct. These results confirm that the measurement
+items effectively capture the organization’s capability to utilize artificial intelligence, machine
+learning algorithms, predictive analytics tools, and automated risk detection mechanisms in
+project risk management. Likewise, the factor loadings for Risk Management Effectiveness in
+Hybrid Projects (RMEHP1–RMEHP5) range from 0.683 to 0.811, confirming the robustness
+and internal consistency of the dependent construct. The strength and consistency of these
+loadings reinforce the validity of the structural relationship observed.
+Table 18 Model Fit Indices for H5 Structural Model
+Fit Index Value
+Chi-square (χ²) 67.817
+75
+
+=== PAGE 76 ===
+Degrees of Freedom (df) 34
+CMIN/DF 1.995
+P-value 0.000
+NFI 0.965
+RFI 0.954
+IFI 0.982
+CFI 0.982
+RMSEA 0.051
+The model fit statistics further support the adequacy of the structural model. As indicated in
+the fit indices, the Chi-square value (χ² = 67.817) with 34 degrees of freedom yields a
+CMIN/DF ratio of 1.995, which falls within the acceptable threshold of less than 3.00,
+indicating satisfactory model fit. Although the Chi-square p-value is significant (p = 0.000),
+this is common in studies with larger sample sizes and does not necessarily imply poor fit.
+Additional incremental fit indices confirm the model’s adequacy, with NFI = 0.965, RFI =
+0.954, IFI = 0.982, and CFI = 0.982, all exceeding the recommended benchmark of 0.90. The
+RMSEA value of 0.051 is below the upper threshold of 0.08, indicating good approximation
+fit. Collectively, these indices demonstrate that the structural model provides a good
+representation of the observed data.
+The findings underscore the strategic importance of AI-driven risk analytics capability in
+hybrid project environments. Unlike traditional risk management mechanisms that rely heavily
+on manual assessment and historical judgment, AI-enabled analytics enhances predictive
+accuracy, anomaly detection, real-time monitoring, and automated prioritization of risks. In
+hybrid environments where methodological complexity and information fragmentation can
+impede risk transparency AI capability functions as an integrative and intelligence-enhancing
+mechanism. The comparatively strong standardized coefficient suggests that AI-driven
+analytics capability is one of the most influential determinants of risk management
+effectiveness among the variables tested in this study.
+76
+
+=== PAGE 77 ===
+Based on the statistically significant path coefficient, acceptable goodness-of-fit indices, and
+strong measurement reliability, Hypothesis 5 is accepted. AI-Driven Risk Analytics Capability
+has a significant positive impact on Risk Management Effectiveness in Hybrid Project
+Environments.
+77
+
+=== PAGE 78 ===
+17 CHAPTER 5
+18 DISCUSSION
+The purpose of this study was to examine how governance mechanisms and artificial
+intelligence–enabled analytics influence project risk management effectiveness in hybrid
+project environments. Using structural equation modeling, the research evaluated the relative
+contributions of governance consistency, risk process alignment, risk visibility, timely risk
+escalation, and AI analytics capability. The findings reveal that risk management effectiveness
+in hybrid projects is driven primarily by structural coherence and organizational capability
+rather than by information availability or escalation speed alone. This highlights an important
+shift in how risk is governed in complex project settings that combine Agile and traditional
+methodologies.
+One of the most significant findings is the strong positive effect of governance consistency on
+risk management effectiveness. Hybrid projects frequently operate under dual governance
+logics, where Agile teams emphasize autonomy and flexibility while traditional structures rely
+on formal controls and hierarchical oversight. When these governance systems are
+inconsistently applied, ambiguity emerges around accountability, decision rights, and
+escalation pathways, increasing the likelihood of unmanaged risks. The results of this study
+indicate that consistent governance across hybrid structures reduces such ambiguity and
+enhances coordination, supporting existing governance and agency theory perspectives that
+emphasize the importance of clarity in roles and authority. This suggests that effective risk
+management in hybrid projects requires deliberate integration of governance mechanisms
+rather than parallel or fragmented control systems.
+Risk process alignment also demonstrated a significant positive relationship with risk
+management effectiveness, reinforcing the importance of structural integration across the
+project lifecycle. Hybrid environments often exhibit misaligned risk practices, with Agile
+teams relying on informal, iterative approaches and traditional teams adhering to formalized
+risk registers and stage-gate reviews. The findings suggest that aligning these processes into a
+coherent risk management framework enables organizations to identify, assess, and respond to
+risks more effectively. From a dynamic capabilities perspective, this alignment enhances an
+organization’s ability to sense and adapt to uncertainty by ensuring that risk information flows
+78
+
+=== PAGE 79 ===
+consistently across teams and decision levels. This reinforces prior research that identifies
+process integration as a critical success factor in complex project environments.
+In contrast, risk visibility did not demonstrate a statistically significant direct effect on risk
+management effectiveness. While prior studies often emphasize transparency and information
+sharing as key enablers of effective risk management, the results of this study suggest that
+visibility alone is insufficient in hybrid project contexts. One possible explanation is that
+increased visibility does not necessarily lead to improved decision-making if governance
+structures and interpretive mechanisms are weak. In hybrid projects, risk information may be
+widely available but not effectively prioritized or acted upon due to competing decision logics
+or unclear accountability. Additionally, Agile environments generate high volumes of real-time
+data, which can contribute to information overload rather than enhanced situational awareness.
+These findings indicate that risk visibility functions more as an enabling condition that supports
+other governance mechanisms, rather than as an independent driver of effectiveness.
+Similarly, timely risk escalation was not found to have a significant direct impact on risk
+management effectiveness. This challenges traditional assumptions that rapid escalation is
+inherently beneficial in managing project risks. In hybrid project environments, Agile
+principles encourage decentralized decision-making and local problem resolution, reducing the
+need for frequent formal escalation. Rapid escalation of risks that can be managed at the team
+level may create unnecessary disruption, increase administrative burden, and undermine team
+autonomy. The results suggest that escalation effectiveness in hybrid projects depends more on
+appropriateness and quality than on speed. This aligns with emerging literature that argues for
+context-sensitive escalation policies, particularly in environments characterized by high
+uncertainty and adaptive workflows.
+AI analytics capability emerged as one of the strongest predictors of risk management
+effectiveness, underscoring its growing strategic importance in contemporary project
+management. Rather than functioning solely as a technical tool, AI analytics appears to operate
+as an organizational capability that enhances predictive foresight and decision quality. By
+continuously analyzing large volumes of project data, AI systems enable early detection of
+emerging risks and support proactive decision-making. From a resource-based view, AI
+analytics capability represents a valuable and difficult-to-imitate resource that can strengthen
+an organization’s risk governance capacity. Importantly, the findings suggest that AI does not
+79
+
+=== PAGE 80 ===
+replace traditional governance mechanisms but amplifies their effectiveness by reducing
+cognitive limitations and improving situational awareness within structured risk processes.
+Taken together, the findings indicate that effective risk management in hybrid projects is
+shaped by the interaction between governance structures, aligned processes, and advanced
+analytical capabilities. Structural coherence provides the foundation for effective risk
+governance, while AI analytics enhances an organization’s ability to adapt to uncertainty. The
+non-significant effects of risk visibility and escalation highlight that risk management
+effectiveness is not determined by information availability or response speed alone, but by the
+organization’s capacity to interpret information and make coordinated decisions. This
+integrated perspective advances existing project risk management literature by empirically
+demonstrating how hybrid governance and AI-enabled capabilities jointly influence outcomes.
+From a theoretical standpoint, this study contributes to the growing body of hybrid project
+management literature by validating a multidimensional model of risk governance that
+incorporates AI analytics capability. It extends governance and dynamic capability theories
+into the hybrid project domain, emphasizing the evolving role of AI in supporting
+organizational control and adaptability. Practically, the findings suggest that organizations
+managing hybrid projects should prioritize governance integration and process alignment
+before investing heavily in visibility tools or escalation mechanisms. AI analytics initiatives
+are most effective when embedded within coherent governance frameworks that support
+informed and timely decision-making.
+Overall, this discussion highlights that managing risk in hybrid project environments requires
+more than adopting Agile practices or deploying advanced technologies in isolation. Instead,
+organizations must focus on creating integrated governance structures, aligning risk processes,
+and developing analytical capabilities that collectively support effective risk management in
+complex and dynamic project settings.
+80
+
+=== PAGE 81 ===
+19 CHAPTER 6
+20 CONCLUSION
+This study set out to examine how governance mechanisms and artificial intelligence–driven
+analytics influence risk management effectiveness within hybrid project environments. As
+organizations increasingly adopt hybrid methodologies that combine Agile and traditional
+approaches, managing project risk has become more complex due to fragmented governance
+structures, divergent decision-making logics, and increasing environmental uncertainty. By
+integrating governance consistency, risk process alignment, risk visibility, timely risk
+escalation, and AI-driven risk analytics capability into a single structural model, this research
+provides empirical insights into the factors that most strongly shape risk management outcomes
+in hybrid projects.
+Using a quantitative research design and structural equation modeling (SEM) based on data
+collected from 384 project professionals, the study demonstrates that risk management
+effectiveness in hybrid projects is primarily driven by structural coherence and organizational
+capability rather than by information availability or procedural speed alone. Governance
+consistency, risk process alignment, and AI-driven risk analytics capability emerged as
+statistically significant predictors of effective risk management, while risk visibility and timely
+risk escalation did not exhibit significant direct effects. These findings highlight the importance
+of integrating governance structures and aligning risk processes across hybrid project settings,
+while also recognizing the transformative role of AI analytics as an enabler of informed and
+adaptive decision-making.
+One of the most important contributions of this study lies in its empirical validation of
+governance consistency as a foundational determinant of risk management effectiveness in
+hybrid projects. Hybrid environments often operate under competing governance logics, where
+Agile teams prioritize flexibility and decentralized authority, while traditional project
+structures emphasize formal controls and hierarchical oversight. The findings indicate that
+when governance mechanisms are applied consistently across these domains, organizations
+experience improved accountability, clearer decision rights, and more coordinated risk
+responses. This reinforces the view that hybrid project success does not arise from choosing
+between Agile and traditional governance models, but from deliberately integrating them into
+a coherent governance framework.
+81
+
+=== PAGE 82 ===
+Risk process alignment also plays a critical role in enhancing risk management effectiveness.
+The alignment of risk identification, assessment, response planning, and monitoring activities
+across hybrid project components ensures that risk-related information flows consistently and
+that responses are coordinated across teams and organizational levels. The findings suggest
+that misaligned or fragmented risk processes undermine an organization’s ability to manage
+uncertainty effectively, even when advanced tools or technologies are available. This
+underscores the importance of viewing risk management as an end-to-end organizational
+process rather than a collection of isolated practices.
+A key insight from this research is the strategic significance of AI-driven risk analytics
+capability. The results demonstrate that AI analytics is not merely a supportive technological
+tool but functions as an organizational capability that enhances predictive foresight, decision
+quality, and adaptive responsiveness. By continuously analyzing large volumes of project data,
+AI systems enable early identification of emerging risks and support proactive intervention.
+From a strategic perspective, AI-driven analytics can be understood as a capability that
+complements and amplifies governance structures, reducing cognitive limitations and
+enhancing situational awareness in complex project environments. This finding is particularly
+relevant as organizations increasingly invest in digital transformation initiatives without fully
+integrating them into governance and risk management frameworks.
+Conversely, the non-significant findings related to risk visibility and timely risk escalation
+challenge some conventional assumptions in project risk management literature. While
+transparency and rapid escalation are often viewed as inherently beneficial, the results of this
+study suggest that these factors do not directly translate into effective risk management
+outcomes in hybrid environments. Risk visibility, while necessary, appears insufficient on its
+own if organizations lack the governance clarity and interpretive capacity required to act on
+available information. Similarly, timely risk escalation may be less critical in hybrid projects
+where Agile teams are empowered to manage risks locally and where premature escalation can
+disrupt workflows or undermine team autonomy. These findings suggest that risk management
+effectiveness depends more on the quality of governance and decision-making than on the
+speed or volume of information flows.
+Taken together, the results of this study support an integrated view of risk management in
+hybrid projects, where governance consistency, aligned processes, and analytical capabilities
+jointly shape outcomes. Rather than treating risk management as a purely technical or
+82
+
+=== PAGE 83 ===
+procedural function, the findings emphasize its organizational and strategic dimensions.
+Effective risk management in hybrid environments requires deliberate governance design,
+cross-method integration, and the development of capabilities that support adaptive decision-
+making under uncertainty.
+From a theoretical perspective, this study contributes to the growing body of literature on
+hybrid project management by empirically validating a multidimensional model of risk
+governance that incorporates AI-driven analytics capability. While prior research has often
+examined Agile and traditional risk management practices in isolation, this study advances
+understanding by demonstrating how governance and technology interact within hybrid
+contexts. The findings extend governance theory by highlighting the importance of consistency
+across multiple project methodologies, and they contribute to dynamic capability theory by
+positioning AI analytics as a capability that enhances organizational adaptability in uncertain
+environments.
+The study also contributes to the emerging literature on AI in project management by moving
+beyond descriptive accounts of tool adoption and focusing on AI as a capability embedded
+within governance and process structures. By empirically demonstrating the impact of AI
+analytics capability on risk management effectiveness, this research provides a foundation for
+future studies exploring the strategic role of AI in complex organizational systems.
+Importantly, the findings caution against viewing AI as a standalone solution, emphasizing
+instead the need for integration with governance frameworks and aligned processes.
+From a practical standpoint, the findings offer several important implications for project
+managers, organizations, and policymakers. Organizations managing hybrid projects should
+prioritize the development of consistent governance frameworks that bridge Agile and
+traditional approaches. Rather than allowing governance practices to evolve independently
+within different project components, organizations should establish clear principles that define
+decision rights, accountability, and escalation pathways across hybrid structures. This requires
+not only formal policies but also cultural alignment and leadership commitment.
+In addition, organizations should invest in aligning risk management processes across hybrid
+project environments. This includes harmonizing risk identification methods, assessment
+criteria, and monitoring mechanisms to ensure that risk information is comparable and
+83
+
+=== PAGE 84 ===
+actionable across teams. Such alignment enhances coordination and reduces the likelihood that
+critical risks will be overlooked or mismanaged due to process fragmentation.
+The findings also suggest that investments in AI-driven risk analytics should be accompanied
+by parallel investments in governance and capability development. Simply deploying AI tools
+without integrating them into decision-making processes and governance structures is unlikely
+to yield meaningful improvements in risk management effectiveness. Organizations should
+focus on developing the skills, routines, and organizational structures necessary to interpret
+and act on AI-generated insights. This includes training project managers and decision-makers
+to understand predictive analytics and to integrate AI outputs into strategic and operational
+decisions.
+Despite its contributions, this study is subject to several limitations that should be
+acknowledged. First, the research adopts a cross-sectional design, which limits the ability to
+draw causal inferences or examine how risk management practices evolve over time.
+Longitudinal studies could provide deeper insights into how governance mechanisms and AI
+capabilities interact across different project phases. Second, the study focuses on a sample
+drawn from India, which may limit the generalizability of the findings to other geographic or
+cultural contexts. While India provides a relevant context due to its widespread adoption of
+hybrid project methodologies, future research could replicate the model in different regions to
+assess its broader applicability.
+Third, the study relies on self-reported perceptions of project professionals, which may be
+subject to response bias. Although the sample size is adequate and the measurement model
+demonstrates acceptable reliability and validity, future studies could complement survey data
+with objective performance metrics or qualitative case studies. Additionally, while this study
+focuses on direct relationships between constructs, future research could explore mediating or
+moderating effects, such as organizational culture, project complexity, or regulatory
+environments.
+Future research could also extend this work by examining how AI-driven risk analytics
+interacts with specific Agile practices, such as sprint planning or retrospectives, and with
+traditional governance mechanisms, such as stage-gate reviews. Exploring the ethical and
+organizational implications of AI adoption in project risk management, including issues related
+to transparency, trust, and accountability, would further enrich understanding in this area.
+84
+
+=== PAGE 85 ===
+In conclusion, this study demonstrates that effective risk management in hybrid project
+environments is not achieved through isolated practices or technologies, but through the
+integration of consistent governance, aligned processes, and advanced analytical capabilities.
+As hybrid methodologies continue to shape project management practice, organizations must
+move beyond simplistic dichotomies between Agile and traditional approaches and instead
+focus on building coherent systems that support informed and adaptive decision-making. By
+doing so, they can enhance their ability to manage uncertainty, protect stakeholder value, and
+achieve sustained project success in increasingly complex and dynamic environments.
+21 References
+Abazid, M., & Harb, H. (2018). An overview of risk management in the construction projects.
+9(June), 73–79.
+Abid, S. K., Sulaiman, N., Chan, S. W., Nazir, U., Abid, M., Han, H., Ariza-Montes, A., &
+Vega-Munoz, A. (2021). Toward an integrated disaster management approach: how
+artificial intelligence can boost disaster management. Sustainability, 13(22), 12560.
+Adebayo, O. (2024). Project Risk Management Strategies: Best Practices for Identifying,
+Assessing, and Mitigating Risks in Project Management. Volume 7 Issue 10 April-2024,
+371–381.
+Afzal, F., Yunfei, S., Nazir, M., & Bhatti, S. M. (2021). A review of artificial intelligence based
+risk assessment methods for capturing complexity-risk interdependencies: Cost overrun
+in construction projects. International Journal of Managing Projects in Business, 14(2),
+300–328.
+Ahmed, Q. W., Garg, S., Rai, A., Ramachandran, M., Jhanjhi, N. Z., Masud, M., & Baz, M.
+(2022). Ai-based resource allocation techniques in wireless sensor internet of things
+networks in energy efficiency with data optimization. Electronics, 11(13), 2071.
+Awang, Z. (2014). Validating the Measurement Model : Cfa. Structural Equation Modelling
+Using Amos Grafic, 54–73.
+Aziz, S., & Dowling, M. (2019). Machine learning and AI for risk management, disrupting
+finance: FinTech and strategy in the 21st century. Springer International Publishing:
+Berlin/Heidelberg, Germany.
+85
+
+=== PAGE 86 ===
+Bansal, M.; Goyal, A.; Choudhary, A. A. (2022). Comparative analysis of K-nearest neighbor,
+genetic, support vector machine, decision tree, and long short term memory algorithms in
+machine learning.
+Baryannis, G., Validi, S., Dani, S., & Antoniou, G. (2019). Supply chain risk management and
+artificial intelligence: state of the art and future research directions. International Journal
+of Production Research, 57(7), 2179–2202.
+Belhadi, A., Kamble, S., Fosso Wamba, S., & Queiroz, M. M. (2022). Building supply-chain
+resilience: an artificial intelligence-based technique and decision-making framework.
+International Journal of Production Research, 60(14), 4487–4507.
+Bjorvatn, T., & Wald, A. (2023). Project management in turbulent times: Hybrid approaches
+for dynamic environments. International Journal of Project Management, 41(1), 102–
+112.
+Cheung, G. W., Cooper-Thomas, H. D., Lau, R. S., & Wang, L. C. (2024). Reporting reliability,
+convergent and discriminant validity with structural equation modeling: A review and
+best-practice recommendations. In Asia Pacific Journal of Management (Vol. 41, Issue
+2). Springer US. https://doi.org/10.1007/s10490-023-09871-y
+Datta, P., & Roy, R. (2010). Cost Modelling Techniques for Availability Type Service Support
+Contracts: A Literature Review and Empirical Study. Cirp Journal of Manufacturing
+Science and Technology, 3. https://doi.org/10.1016/j.cirpj.2010.07.003
+de Araújo Lima, P. F., Crema, M., & Verbano, C. (2020). Risk management in SMEs: A
+systematic literature review and future directions. European Management Journal, 38(1),
+78–94.
+Denicol, J., Davies, A., & Pryke, S. (2022). The organizational architecture of megaprojects:
+The hybrid project management approach. Project Management Journal, 53(2), 132–145.
+Dutta, D., & Bose, I. (2015). Managing risks in AI-enabled business processes. Information
+Systems Journal.
+Ebule, A. (2025). DEVELOPING A ROBUST PROJECT RISK MANAGEMENT PLAN :
+PRINCIPLES , STRATEGIES , AND IMPLEMENTATION. 10(1).
+Faruk, M. I. (2025). AI-Driven Project Risk Management: Leveraging Artificial Intelligence.
+Journal of Computer Science and Technology Studies, 123–137.
+86
+
+=== PAGE 87 ===
+https://doi.org/10.32996/jcsts
+Galaz, V., Centeno, M. A., Callahan, P. W., Causevic, A., Patterson, T., Brass, I., Baum, S.,
+Farber, D., Fischer, J., & Garcia, D. (2021). Artificial intelligence, systemic risks, and
+sustainability. Technology in Society, 67, 101741.
+He, R., Zhang, L., & Chew, A. (2022). Modeling and predicting rainfall time series using
+seasonal-trend decomposition and machine learning. Knowledge-Based Systems, 251,
+109125. https://doi.org/10.1016/j.knosys.2022.109125
+Hoda, R., & Murugesan, L. K. (2023). Agile project management in non-software domains:
+Challenges and adaptations. IEEE Transactions on Engineering Management, 70(2), 591–
+604.
+Hopkin, P. (2018). Fundamentals of Risk Management: Understanding, Evaluating and
+Implementing Effective Risk Management; Kogan Page Publishers: London, UK,.
+Hosseini, M. R., Martek, I., & Zavadskas, E. K. (2023). Hybridization in project management:
+A systematic review and future research agenda. Journal of Civil Engineering and
+Management, 29(1), 1–14.
+Ibrahim, A., & Bezverkhyi, K. (2024). Risk Management in Hybrid Project Environments:
+Combining Sequential Planning with Iterative Delivery.
+Isensee, C., Griese, K.-M., & Teuteberg, F. (2021). Sustainable artificial intelligence: A
+corporate culture perspective. Sustainability Management Forum|
+NachhaltigkeitsManagementForum, 29(3), 217–230.
+Jacob, D. (2025). International Journal of Research Publication and Reviews Agile Hybrid
+Methodologies for Complex Project Execution : Balancing Flexibility , Control , and
+Stakeholder Value Maximization . 6(3), 6190–6202.
+Javaid, M., Haleem, A., Pratap Singh, R., Khan, S., & Suman, R. (2022). Sustainability 4.0 and
+its applications in the field of manufacturing. Internet of Things and Cyber-Physical
+Systems, 2, 82–90. https://doi.org/https://doi.org/10.1016/j.iotcps.2022.06.001
+Kaplan, S., & Garrick, B. J. (1981). On the quantitative definition of risk. Risk Analysis, 1(1),
+11–27.
+Kapri, S. S. (2023). The role of corporate governance in mitigating financial risk: An Indian
+87
+
+=== PAGE 88 ===
+experiences. Journal of Cardiovascular Research, 12(6), 2114–2121.
+Kerzner, H. (2023). Project based problem solving and decision making: a guide for project
+managers. John Wiley & Sons.
+Khan, M. A., & Al-Shammari, M. (2023). Exploring Agile applicability in infrastructure
+projects: A critical analysis. International Journal of Managing Projects in Business,
+16(5), 1083–1103.
+Leech, B. (2025). The Evolution of Agile and Hybrid Project Management Methodologies : A
+Systematic Literature Review. 1, 4–13.
+Lundqvist, S. A. (2015). Why firms implement risk governance–Stepping beyond traditional
+risk management to enterprise risk management. Journal of Accounting and Public Policy,
+34(5), 441–466.
+Matel, E., Vahdatikhaki, F., Hosseinyalamdary, S., Evers, T., & Voordijk, H. (2022). An
+artificial neural network approach for cost estimation of engineering services.
+International Journal of Construction Management, 22(7), 1274–1287.
+Mirzaei, M., Mabin, V. J., & Zwikael, O. (2025). Customising Hybrid project management
+methodologies. Production Planning & Control, 36(9), 1188–1205.
+https://doi.org/10.1080/09537287.2024.2349231
+Nguyen, Q. K. (2022). The impact of risk governance structure on bank risk management
+effectiveness: evidence from ASEAN countries. Heliyon, 8(10).
+Nwosu, N., & Peter, C. (2025). International Journal of Research Publication and Reviews
+Integrating Automation into Project Management for Enhanced Risk Identification ,
+Assessment , and Mitigation : A Strategic Framework for Improving Project Success .
+6(10), 291–306.
+Okafor, I. (2021). PROJECT RISK MANAGEMENT.
+Pan, Y., & Zhang, L. (2021). Roles of artificial intelligence in construction engineering and
+management: A critical review and future trends. Automation in Construction, 122,
+103517. https://doi.org/10.1016/j.autcon.2020.103517
+Peri, S. S. S. R. G. (2025). AI-Based Risk Assessment Tools in Project Planning and Execution.
+https://doi.org/https://doi.org/10.52783/eel.v15i2.3018
+88
+
+=== PAGE 89 ===
+Praveen, R. (2025). Agile vs. Hybrid Project Management Methodologies in Large-Scale
+Infrastructure Projects. Journal of Marketing & Social Research.
+Ruggiano, N., & Perry, T. E. (2019). Conducting secondary analysis of qualitative data: Should
+we, can we, and how? Qualitative Social Work, 18(1), 81–97.
+Salehi, H., & Burgueño, R. (2018). Emerging artificial intelligence methods in structural
+engineering. Engineering Structures, 171, 170–189.
+https://doi.org/10.1016/j.engstruct.2018.05.084
+Schaffer, A., Dobbins, T., & Pearson, S.-A. (2021). Interrupted time series analysis using
+autoregressive integrated moving average (ARIMA) models: a guide for evaluating large-
+scale health interventions. BMC Medical Research Methodology, 21.
+https://doi.org/10.1186/s12874-021-01235-8
+Schön, E.-M., Radtke, D., & Jordan, C. (2020). Improving Risk Management in a Scaled Agile
+Environment BT - Agile Processes in Software Engineering and Extreme Programming
+(V. Stray, R. Hoda, M. Paasivaara, & P. Kruchten (eds.); pp. 132–141). Springer
+International Publishing.
+Schuett, J. (2023). Risk Management in the Artificial Intelligence Act. European Journal of
+Risk Regulation, 15, 1–19. https://doi.org/10.1017/err.2023.1
+Sherstinsky, A. (2020). Fundamentals of Recurrent Neural Network (RNN) and Long Short-
+Term Memory (LSTM) network. Physica D: Nonlinear Phenomena, 404, 132306.
+https://doi.org/10.1016/j.physd.2019.132306
+Shrestha, N. (2021). Factor Analysis as a Tool for Survey Analysis. American Journal of
+Applied Mathematics and Statistics, 9(1), 4–11. https://doi.org/10.12691/ajams-9-1-2
+Székely, B., Késmárki-Gally, S. E., & Lakner, Z. (2025). Hybrid project management: Scoping
+review. Project Leadership and Society, 6, 100182.
+https://doi.org/https://doi.org/10.1016/j.plas.2025.100182
+Tanim, S. H., & Ahmad, S. (2025). AI driven strategic decision-making in IT project
+management : Enhancing risk assessment , cost control , and efficiency.
+Team, I. E. (2024). An Introductory Guide to Confirmatory Factor Analysis.
+Tian, Kun, Z. Z. (2025). Artificial intelligence in risk management within the realm of
+89
+
+=== PAGE 90 ===
+construction projects: A bibliometric analysis and systematic literature review. Journal of
+Innovation & Knowledge. https://doi.org/DOI: 10.1016/j.jik.2025.100711
+Wenzel, M., Krause, B., & Wagner, S. M. (2022). Predictive risk management using artificial
+intelligence:
+Yaseen, A. (2021). REDUCING INDUSTRIAL RISK WITH AI AND AUTOMATION.
+Yigitcanlar, T. (2021). Greening the artificial intelligence for a sustainable planet: An editorial
+commentary. In Sustainability (Vol. 13, Issue 24, p. 13508). MDPI.
+Zigiene, G., Rybakovas, E., & Alzbutas, R. (2019). Artificial Intelligence Based Commercial
+Risk Management Framework for SMEs. Sustainability, 11, 4501.
+https://doi.org/10.3390/su11164501
+Aven, T. (2016). Risk assessment and risk management: Review of recent advances on their
+foundation. European Journal of Operational Research, 253(1), 1–13.
+Aven, T., & Renn, O. (2010). Risk management and governance: Concepts, guidelines and
+applications. Springer.
+Biesenthal, C., Sankaran, S., & Vaagaasar, A. L. (2022). Artificial intelligence in project
+management: Theories, concepts, and future research directions. International Journal of
+Project Management, 40(4), 323–336.
+Bughin, J., Seong, J., Manyika, J., Chui, M., & Joshi, R. (2018). Notes from the AI frontier:
+Modeling the impact of AI on the world economy. McKinsey Global Institute.
+Dwivedi, Y. K., Hughes, L., Ismagilova, E., et al. (2023). Artificial intelligence (AI):
+Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research,
+practice and policy. International Journal of Information Management, 57, 102420.
+Elkington, J. (1997). Cannibals with forks: The triple bottom line of 21st century business.
+Capstone Publishing.
+Flyvbjerg, B. (2017). Survival of the unfittest: Why the worst infrastructure gets built—and
+what we can do about it. Oxford Review of Economic Policy, 25(3), 344–367.
+Fountaine, T., McCarthy, B., & Saleh, T. (2019). Building the AI-powered organization.
+Harvard Business Review, 97(4), 62–73.
+90
+
+=== PAGE 91 ===
+Hanaysha, J. R., Al-Shaikh, M. E., & Alzoubi, H. M. (2021). The role of artificial intelligence
+in improving project performance: Evidence from IT projects. Management Science Letters,
+11(5), 1561–1570.
+Jordan, M. I., & Mitchell, T. M. (2015). Machine learning: Trends, perspectives, and prospects.
+Science, 349(6245), 255–260.
+Kahneman, D. (2011). Thinking, fast and slow. Farrar, Straus and Giroux.
+Kerzner, H. (2019). Project management: A systems approach to planning, scheduling, and
+controlling (12th ed.). Wiley.
+March, J. G. (1991). Exploration and exploitation in organizational learning. Organization
+Science, 2(1), 71–87.
+Marnewick, C., Marnewick, A. L., & Pretorius, J. H. C. (2020). Artificial intelligence in project
+management: A review. South African Journal of Industrial Engineering, 31(4), 43–55.
+Provost, F., & Fawcett, T. (2013). Data science for business. O’Reilly Media.
+Raisch, S., & Krakowski, S. (2021). Artificial intelligence and management: The automation–
+augmentation paradox. Academy of Management Review, 46(1), 192–210.
+Sauer, C., Gemino, A., & Reich, B. H. (2007). The impact of size and volatility on IT project
+performance. Communications of the ACM, 50(11), 79–84.
+Siau, K., & Wang, W. (2018). Building trust in artificial intelligence, machine learning, and
+robotics. Cutting-Edge Technologies, 1(1), 47–53.
+Simon, H. A. (1997). Administrative behavior (4th ed.). Free Press.
+Standish Group. (2020). CHAOS Report 2020. Standish Group International.
+United Nations. (2015). Transforming our world: The 2030 agenda for sustainable
+development. United Nations General Assembly.
+Ward, S., & Chapman, C. (2003). Transforming project risk management into project
+uncertainty management. International Journal of Project Management, 21(2), 97–105.
+Wamba, S. F., Bawack, R. E., Guthrie, C., Queiroz, M. M., & Keogh, J. G. (2021). Big data
+analytics and artificial intelligence in project management: A systematic review. International
+Journal of Project Management, 39(6), 633–651.
+91
+
+=== PAGE 92 ===
+Williams, T., Klakegg, O. J., Magnussen, O. M., & Glasspool, H. (2010). An investigation of
+governance frameworks for public project development and estimation. International Journal
+of Project Management, 28(8), 782–795.
+Zhang, L., Chen, X., & Liu, Y. (2021). Predictive analytics for project risk management using
+machine learning techniques. IEEE Transactions on Engineering Management, 68(4), 1121–
+1134.
+92

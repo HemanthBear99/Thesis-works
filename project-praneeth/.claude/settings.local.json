@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import pptx; print\\(''python-pptx version:'', pptx.__version__\\)\")",
+      "Bash(pip install python-pptx --quiet)",
+      "Bash(python -c \"import pptx; print\\(''OK:'', pptx.__version__\\)\")"
+    ]
+  }
+}

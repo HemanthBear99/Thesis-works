@@ -1,0 +1,48 @@
+======================================================================
+SEVM MONTE CARLO SIMULATION - COMPLETE RESULTS SUMMARY
+For MBA Thesis Chapter 4
+======================================================================
+
+DATASET (Section 3.2.2):
+  Projects: 12
+  Sectors: Oil & Gas, Power, Water, Industrial, Renewable
+  Budgets: $15M - $200M
+  Durations: 12-42 months
+
+PROJECT TABLE:
+  ID |  BAC($M) | Actual($M) | Overrun% |    CPI | Complexity
+------------------------------------------------------------
+ P01 |     45.0 |       51.2 |   +13.9% |  0.878 |       high
+ P02 |    120.0 |      143.4 |   +19.5% |  0.837 |       high
+ P03 |     28.0 |       30.8 |    +9.8% |  0.910 |     medium
+ P04 |     85.0 |      104.5 |   +22.9% |  0.814 |       high
+ P05 |     15.0 |       17.1 |   +14.3% |  0.875 |        low
+ P06 |     62.0 |       60.8 |    -1.9% |  1.019 |     medium
+ P07 |    200.0 |      223.1 |   +11.6% |  0.896 |       high
+ P08 |     35.0 |       35.8 |    +2.2% |  0.978 |     medium
+ P09 |     95.0 |      122.4 |   +28.8% |  0.776 |       high
+ P10 |     22.0 |       24.2 |   +10.1% |  0.909 |        low
+ P11 |     55.0 |       59.8 |    +8.6% |  0.920 |     medium
+ P12 |    180.0 |      199.1 |   +10.6% |  0.904 |       high
+
+
+KEY FINDINGS:
+========================================
+1. SEVM Avg MAPE: 3.66%
+2. Det(BAC/CPI) Avg MAPE: 2.69%
+3. Det(Composite) Avg MAPE: 4.21%
+4. Improvement vs BAC/CPI: -0.98pp
+5. Improvement vs Composite: 0.55pp
+6. 80% CI Calibration: 77.1%
+7. 50% CI Calibration: 53.1%
+
+HYPOTHESIS RESULTS:
+  H1: NOT SUPPORTED (SEVM improves cost accuracy by -1.0pp)
+  H2: Schedule accuracy linked to composite formula improvement of 0.5pp
+  H3: SUPPORTED (High=-0.1pp > Low=-1.9pp)
+  H4: PARTIALLY SUPPORTED (Early=-1.3pp > Late=-0.6pp)
+  H5: SUPPORTED (calibration improves with data points)
+
+STATISTICS:
+  Wilcoxon vs BAC/CPI: W=1073, p=0.000005
+  Wilcoxon vs Composite: W=1915, p=0.131240
